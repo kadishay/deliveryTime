@@ -1,0 +1,87 @@
+Restaurant: הטוג / Arrives on: 12:25 / Times tested: 111
+Restaurant: ביל / Arrives on: 12:38 / Times tested: 92
+Restaurant: הקשאי / Arrives on: 12:58 / Times tested: 86
+Restaurant: הזנמ / Arrives on: 12:34 / Times tested: 83
+Restaurant: רב יפוק / Arrives on: 12:46 / Times tested: 75
+Restaurant: סרפפ הד / Arrives on: 12:31 / Times tested: 70
+Restaurant: הרבוזוז / Arrives on: 12:44 / Times tested: 70
+Restaurant: ודימ / Arrives on: 12:59 / Times tested: 69
+Restaurant: טלס ףש / Arrives on: 12:48 / Times tested: 66
+Restaurant: ירודנט / Arrives on: 12:35 / Times tested: 66
+Restaurant: סולסרמ / Arrives on: 12:57 / Times tested: 62
+Restaurant: דופ ןברוא / Arrives on: 12:39 / Times tested: 51
+Restaurant: ינפמוק לצינש / Arrives on: 12:42 / Times tested: 45
+Restaurant: גוצרה / Arrives on: 12:43 / Times tested: 44
+Restaurant: ישוס הז / Arrives on: 12:42 / Times tested: 42
+Restaurant: רביר / Arrives on: 12:49 / Times tested: 37
+Restaurant: ןבוק ןבוא / Arrives on: 12:48 / Times tested: 32
+Restaurant: בגש / Arrives on: 12:38 / Times tested: 32
+Restaurant: ףרי׳ג / Arrives on: 12:58 / Times tested: 32
+Restaurant: ישוש תא רוכב / Arrives on: 12:40 / Times tested: 31
+Restaurant: יוס / Arrives on: 12:36 / Times tested: 31
+Restaurant: ילדרב / Arrives on: 12:23 / Times tested: 28
+Restaurant: ףרי'ג / Arrives on: 12:55 / Times tested: 27
+Restaurant: גנוו / Arrives on: 12:43 / Times tested: 27
+Restaurant: הנקיסקמ / Arrives on: 12:31 / Times tested: 27
+Restaurant: השולשה תניפ / Arrives on: 13:2 / Times tested: 26
+Restaurant: סיארע / Arrives on: 12:20 / Times tested: 22
+Restaurant: טוקירטנאל / Arrives on: 12:56 / Times tested: 21
+Restaurant: יצאה ינינ / Arrives on: 12:55 / Times tested: 21
+Restaurant: וקירוקוק / Arrives on: 12:39 / Times tested: 20
+Restaurant: ןוחבטמה / Arrives on: 12:40 / Times tested: 20
+Restaurant: י׳צאה ינינ / Arrives on: 12:51 / Times tested: 20
+Restaurant: ףריג / Arrives on: 12:57 / Times tested: 19
+Restaurant: ןונ / Arrives on: 13:1 / Times tested: 18
+Restaurant: יניטנופס / Arrives on: 12:32 / Times tested: 18
+Restaurant: ילדארב / Arrives on: 12:35 / Times tested: 17
+Restaurant: םיטלס / Arrives on: 12:56 / Times tested: 16
+Restaurant: ץנארב יידנאס / Arrives on: 12:58 / Times tested: 16
+Restaurant: סילמרכ / Arrives on: 12:41 / Times tested: 15
+Restaurant: גרובמה / Arrives on: 12:59 / Times tested: 14
+Restaurant: ינמיתה / Arrives on: 12:47 / Times tested: 14
+Restaurant: ןמאר וריה / Arrives on: 12:26 / Times tested: 13
+Restaurant: יראק ןטפק / Arrives on: 12:41 / Times tested: 12
+Restaurant: ופא׳ג / Arrives on: 12:42 / Times tested: 12
+Restaurant: אינוד / Arrives on: 12:40 / Times tested: 12
+Restaurant: ירבילוא / Arrives on: 12:58 / Times tested: 11
+Restaurant: nooN / Arrives on: 13:9 / Times tested: 10
+Restaurant: ואפ אמ / Arrives on: 12:38 / Times tested: 10
+Restaurant: היו הטספ / Arrives on: 12:28 / Times tested: 10
+Restaurant: viL / Arrives on: 12:19 / Times tested: 9
+Restaurant: רמות לש חבטמה / Arrives on: 13:23 / Times tested: 9
+Restaurant: הרודנב / Arrives on: 13:3 / Times tested: 9
+Restaurant: יפסכ / Arrives on: 12:33 / Times tested: 8
+Restaurant: הרידניא / Arrives on: 12:54 / Times tested: 8
+Restaurant: הלימ׳ג / Arrives on: 12:37 / Times tested: 8
+Restaurant: טיינפלוו / Arrives on: 13:22 / Times tested: 8
+Restaurant: אקניזור / Arrives on: 12:20 / Times tested: 7
+Restaurant: ןונזמ / Arrives on: 12:59 / Times tested: 7
+Restaurant: וניב / Arrives on: 12:43 / Times tested: 7
+Restaurant: gnoV / Arrives on: 12:50 / Times tested: 7
+Restaurant: סלוב דנא סרא'ג / Arrives on: 12:41 / Times tested: 7
+Restaurant: ירסוגנא / Arrives on: 12:40 / Times tested: 7
+Restaurant: יאווא קוו / Arrives on: 12:59 / Times tested: 7
+Restaurant: רביפוק / Arrives on: 12:34 / Times tested: 7
+Restaurant: סלדונ וג / Arrives on: 12:32 / Times tested: 7
+Restaurant: סרפפ / Arrives on: 12:28 / Times tested: 6
+Restaurant: סלוב דנא סראג / Arrives on: 12:54 / Times tested: 6
+Restaurant: בדנימע / Arrives on: 12:43 / Times tested: 6
+Restaurant: טפסנוק בגש / Arrives on: 12:56 / Times tested: 6
+Restaurant: ופאג / Arrives on: 12:46 / Times tested: 6
+Restaurant: ןברוא / Arrives on: 12:49 / Times tested: 6
+Restaurant: 'ץנארב יידנאס / Arrives on: 12:54 / Times tested: 5
+Restaurant: הרימז / Arrives on: 12:32 / Times tested: 5
+Restaurant: המורא / Arrives on: 12:25 / Times tested: 5
+Restaurant: ׳ץנארב יידנאס / Arrives on: 13:8 / Times tested: 5
+Restaurant: opaJ / Arrives on: 12:36 / Times tested: 5
+Restaurant: סטיינפלוו / Arrives on: 13:7 / Times tested: 5
+Restaurant: ףרי’ג / Arrives on: 12:58 / Times tested: 5
+Restaurant: ימנוא / Arrives on: 12:46 / Times tested: 5
+Restaurant: ןורציפ / Arrives on: 12:55 / Times tested: 5
+Restaurant: סנאס דנא ףזו'ג / Arrives on: 12:33 / Times tested: 5
+Restaurant: gnov / Arrives on: 12:34 / Times tested: 5
+Restaurant: הוואניקוא / Arrives on: 13:12 / Times tested: 5
+Restaurant: םדרטסמא סרפפ הד / Arrives on: 12:38 / Times tested: 5
+Restaurant: ירויפ / Arrives on: 12:36 / Times tested: 5
+Restaurant: ופא'ג / Arrives on: 12:45 / Times tested: 5
+Restaurant: סלוב דנא סרא׳ג / Arrives on: 13:21 / Times tested: 5

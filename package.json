@@ -1,0 +1,16 @@
+{
+  "name": "10bis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "buffered-reader": "^1.0.1",
+    "nodemon": "^1.19.1"
+  }
+}
