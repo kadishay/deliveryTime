@@ -1,6053 +1,1184 @@
-Slackbot [10:20]
-Reminder: Order your food.
-
-Shai Tubul [11:46]
-was added to #tlv-hq-lunch by Gilad Bar.
-
-Dafna Dayan [12:00]
-ברדלי
-
-Dafna Dayan [12:11]
-גוטה
-בכור את שושי
-
-NADAV SCHWARTZ [12:19]
-מנדה
-
-Dafna Dayan [12:27]
-גוזף אנד סאנס
-שניצל קומפני
-גירף
-זה סושי
-דה פפרס
-
-Roni Ashkenazi [12:36]
-זה סושי
-
-Roni Ashkenazi [12:43]
-אורבן פוד
-
-Roni Ashkenazi [12:54]
-קופי בר
-סאנדיי בראנץ'
-סלטים
-כספי
-מאמא מיה
-מידו
-
-NADAV SCHWARTZ [13:04]
-זוזוברה
-
-Dafna Dayan [13:06]
-לאנטריקוט
-
-NADAV SCHWARTZ [13:09]
-אוליברי
-
-Yuval Itzchakov [13:39]
-שף סלט
-
-Dafna Dayan [14:19]
-אוונגרד
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Limor Mekaiten [10:48]
-@here מישהו רוצה להצטרף? הזמנתי ג'וזף אנד סאנס
-https://www.10bis.co.il/next/Restaurants/Menu/Delivery/21259/%D7%92%D7%95%D7%96%D7%A3%20%D7%90%D7%A0%D7%93%20%D7%A1%D7%90%D7%A0%D7%A1
-10bis.co.il
-תפריט משלוחים - הזמן משלוח ממסעדת  | תן ביס
-משלוחים - תפריט משלוחים מפורט המאפשר הזמנה אונליין מכל כרטיס אשראי! בהזמנת משלוח ממסעדת תוכלו ליהנות ממגוון הנחות תן ביס. תפריט להזמנת משלוחים בלחיצת כפתור
-
-Rona Lankry [11:05]
-was added to #tlv-hq-lunch by Adi Saranga.
-
-Shem Magnezi [11:16]
-someone for בכור את שושי ?https://www.10bis.co.il/next/Restaurants/Menu/Delivery/1308/%D7%91%D7%9B%D7%95%D7%A8%20%D7%90%D7%AA%20%D7%A9%D7%95%D7%A9%D7%99%20 (edited)
-10bis.co.il
-תפריט משלוחים - הזמן משלוח ממסעדת  | תן ביס
-משלוחים - תפריט משלוחים מפורט המאפשר הזמנה אונליין מכל כרטיס אשראי! בהזמנת משלוח ממסעדת תוכלו ליהנות ממגוון הנחות תן ביס. תפריט להזמנת משלוחים בלחיצת כפתור
-
-Dafna Dayan [12:16]
-גוזף אנד סאנס
-דה פפרס
-
-Dafna Dayan [12:28]
-רוזינקא
-קפטן קארי
-ברדלי
-
-Dafna Dayan [12:34]
-זמירה
-בכור את שושי
-זוזוברה
-שניצל קומפני
-זה סושי
-סנדוויץ פקטורי
-ליב
-כרמליס ביגל
-
-Dafna Dayan [12:55]
-ארומה
-
-Noa Adamsky [13:01]
-ממפיס
-אובן קובן
-לאנטרקוט
-ג'ירף
-
-Gilad Bar [13:01]
-הגיע סאנדיי בראנץ׳ גוטה?
-
-Noa Adamsky [13:01]
-מזנון
-
-Eran Hazoum [13:02]
-מה עם ג׳ינה?
-
-NADAV SCHWARTZ [13:20]
-קופי בר
-
-Ronit Steinberg [13:21]
-סאנדיי בראנץ׳
-
-NADAV SCHWARTZ [13:21]
-ג'ינה
-שף סלט
-
-Ron Sherf Sadot [13:37]
-מידו
-
-Nati Asher [13:37]
-ג'ארס אנד בואלס אולי?
-
-Timna Cramer [13:37]
-לא הגיעו עדיין
-
-Noa Davidovich [13:45]
-Sui and jars and bowls (edited)
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-NADAV SCHWARTZ [12:15]
-גוטה
-זמירה אקספרס
-ברדלי
-Liv
-Japo
-פפרס אמסטרדם
-
-Limor Mekaiten [12:22]
-אובן קובן
-
-Keren Simon [12:33]
-פינת השלושה
-אורבן פוד
-
-NADAV SCHWARTZ [12:38]
-Noon
-פינת השלושה
-אורבן פוד
-שף סלט
-קופי בר
-
-Mor Meles [12:51]
-זה סושי
-
-Dafna Dayan [12:55]
-זוזוברה
-
-NADAV SCHWARTZ [12:58]
-סאנדיי בראנץ
-אנטריקוט
-
-Roni Ashkenazi [13:26]
+Tal Levitus Asheri 09:35
+joined #tech-toha-lunch.
+Tal Levitus Asheri 09:35
+set the channel purpose: This is a temporary channel for lunch ordering
+Gaya Chomski (CA at ToHa) 09:35
+was added to #tech-toha-lunch by Tal Levitus Asheri, along with 3 others. Also, Michal Dotan and 21 others joined.
+Dafna Nakash (CA at ToHa) 12:12
 מרסלוס
-
-Asaf Bord [13:42]
-יאשקה
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Tomer Gabel [11:11]
-חסרה הזמנה אחת לבינו! מי מצטרף? https://www.10bis.co.il/next/Restaurants/Menu/Delivery/22982/%D7%91%D7%99%D7%A0%D7%95%20%D7%91%D7%A4%D7%99%D7%AA%D7%94%20
-10bis.co.il
-תפריט משלוחים - הזמן משלוח ממסעדת  | תן ביס
-משלוחים - תפריט משלוחים מפורט המאפשר הזמנה אונליין מכל כרטיס אשראי! בהזמנת משלוח ממסעדת תוכלו ליהנות ממגוון הנחות תן ביס. תפריט להזמנת משלוחים בלחיצת כפתור
-
-Dafna Dayan [12:10]
-זוזוברה
-ארומה
-גוטה
-
-Dafna Dayan [12:24]
-בינו
-
-NADAV SCHWARTZ [12:28]
-זמירה
-משק ברזילאי
-נון
-
-NADAV SCHWARTZ [12:37]
-the pepper
-
-Dafna Dayan [12:43]
-קפטן קארי
-זה סושי
-
-NADAV SCHWARTZ [12:46]
-קופי בר
-יאשקה
-
-Liron Netzer [12:51]
-was added to #tlv-hq-lunch by Avigail Berger.
-
-Dafna Dayan [12:55]
-וולפנייטס
-מידו
-
-Talia Nassi [13:04]
-Vong
-
-Noam Hamou [13:11]
-ג'ירף
-
-Lior Baber [13:11]
-ליב
-
-Dafna Dayan [13:12]
-מרסלוס
-אובן קובן
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Marina Grechuhin [12:17]
-was added to #tlv-hq-lunch by Ilya Stavitsky. Also, Michael Katz joined.
-
-Dafna Dayan [12:26]
-אורבן פוד
-גוטה
-קופי בר
-זמירה
-
-Dafna Dayan [12:41]
-לאנטריקוט
-
-Dafna Dayan [12:47]
-SUI סושי
-וונג
-טנדורי
-
-Dafna Dayan [13:06]
-מטבחון
-גירף
-
-Benny Sitbon [13:15]
-שף סלט
-מידו
-פקין דאק
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Dafna Dayan [12:12]
-גוטה
-
-Dafna Dayan [12:35]
-השניצליה
-
-Dafna Dayan [12:53]
-שף סלט
-טנדורי
-ד פפרס
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Dafna Dayan [12:22]
-גוטה
-
-Avigail Berger [13:10]
-ליב
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Dafna Dayan [12:31]
-גוטה
-שגב
-
-Timna Cramer [12:40]
-מא פאו
-טנדורי
-
-Dafna Dayan [12:56]
-שומשום בר
-ג’ירף
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Timna Cramer [10:38]
-https://www.10bis.co.il/next/Restaurants/Menu/Delivery/24076/%D7%92%27%D7%90%D7%A8%D7%A1%20%D7%90%D7%A0%D7%93%20%D7%91%D7%95%D7%9C%D7%A1%20JARS%20&%20BOWLS
-10bis.co.il
-ג'ארס אנד בולס JARS & BOWLS תפריט משלוחים - הזמן משלוח ממסעדת ג'ארס אנד בולס JARS & BOWLS | תן ביס
-ג'ארס אנד בולס JARS & BOWLS משלוחים - תפריט משלוחים מפורט המאפשר הזמנה אונליין מכל כרטיס אשראי! בהזמנת משלוח ממסעדת ג'ארס אנד בולס JARS & BOWLS תוכלו ליהנות ממגוון הנחות תן ביס. תפריט ג'ארס אנד בולס JARS & BOWLS להזמנת משלוחים בלחיצת כפתור
-https://www.10bis.co.il/Content/Images/Restaurant/saladsAndSandwitches_cuisine.png?ver=1
-
-Timna Cramer [10:38]
-משהו רוצה להצטרף להזמנה?
-
-Roni Ashkenazi [12:10]
-גוטה
-טנדורי
-אונמי
-
-Dafna Dayan [12:30]
-מרסלוס
-אובן קובן
-
-Rona Lankry [12:39]
-set up a reminder “Order your food” in this channel at 10:20AM every Monday, Tuesday, Wednesday, Thursday, and Sunday, Israel Standard Time.
-
-Roni Ashkenazi [12:40]
-ג'ארס אנד בולס
-ליב
-זה סושח
-זוזוברה
-בראדלי
-
-Dafna Dayan [13:11]
-יאשקה
-ג’ירף
-המבורג
-מידו
-פיצרון
-
-Ronit Steinberg [13:28]
-הרצוג
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-NADAV SCHWARTZ [12:16]
-ברדלי
-פפרס
-גוטה
-
-Roni Ashkenazi [12:40]
-טנדורי
-ניני האצי
-
-Roni Ashkenazi [12:45]
-ג'מילה
-מוצה
-זה סושי
-
-NADAV SCHWARTZ [12:59]
-פסטה ויה
-
-NADAV SCHWARTZ [13:07]
-יאשקה
-@shiran.entin יאשקה
-@aviv.meital
-מידו
-
-Limor Mekaiten [13:11]
-אינדירה
-
-NADAV SCHWARTZ [13:12]
-ליב
-
-Anna Zeiger [13:14]
-Noon
-
-Yaron Yagoda [13:36]
-ווק אווי
-
-Or Keren [13:46]
-שף סלט
-
-Itai Zaban [13:50]
-גודיס (שווארמה טבעונית)
-
-Benny Sitbon [13:50]
-פינת השלושה
-
-Yoni Trumper [14:08]
-טנדורי שוב
-
-Paz Aricha [14:59]
-was added to #tlv-hq-lunch by Or Keren, along with Yosi Loson.
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Irina Afanasyeva [11:22]
-מישהו מכיר סופר קרוב למשרד שאפשר לשלם עם תן ביס? תודהה
-
-NADAV SCHWARTZ [12:03]
-פינת השלושה
-גוטה
-
-Roni Ashkenazi [12:05]
-מנזה
-שגב
-מרסלוס
-סאנדיי בראנץ
-
-Roni Ashkenazi [12:14]
-דה פפרס
-קוקוריקו
-זה סושי
-
-Roni Ashkenazi [12:27]
-פסטה ויה
-
-NADAV SCHWARTZ [12:38]
-בינו
-ברזילאי
-
-Aviv Meital [12:59]
-בכור
-
-NADAV SCHWARTZ [13:01]
-קופי בר
-הירו
-
-Nir Berger [13:07]
-שף סלט
-זוזוברה
-
-Adi Dagan [13:33]
-@ronald.klein
-
-Ron Klein [13:33]
-was added to #tlv-hq-lunch by Adi Dagan.
-
-Adi Dagan [13:34]
-@ron.klein
-
-Ron Klein [13:34]
-was added to #tlv-hq-lunch by Adi Dagan.
-
-Yuval Itzchakov [13:45]
-בראדלי
-
-Rotem Keren-Azulay [16:02]
-was added to #tlv-hq-lunch by Linat Wager.
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Yaniv Michaelis [10:41]
-~TOMORROW, Thursday 17th:~
-NEXT WEEK!
-ג׳חנון קול
-@on :bussinessman: @tomer.desser :shalom_hayafyuf:@dovrat.gilboa  :princess::skin-tone-2:
-Feel free to join them. I won't join :disappointed: (edited)
-
-On Freund [10:42]
-:flag-ye:
-
-Tal Gurevich [10:43]
-and then some quiet room time i’m guessing
-
-NADAV SCHWARTZ [11:52]
-@keren.simon @keren.chen5 מישהי הזמינה ארומה??
-
-Matan Banner [12:07]
-גוטה
-JAPO
-הירו ראמן
-ארומה
-
-Mor Meles [12:26]
-ג׳וזף אנד סאנס
-בראדלי
-אוליברי
-
-NADAV SCHWARTZ [12:38]
-זוזוברה
-אנגוסרי
-סאנדי בראנץ
-אורבן פוד
-וולף נייט
-
-Roni Ashkenazi [12:52]
-סוי סושי
-
-Roni Ashkenazi [13:02]
-דה פפרס
-יאשקה
-
-NADAV SCHWARTZ [13:04]
-ליב
-
-NADAV SCHWARTZ [13:10]
-ניני האשי
-
-Avishai Lippner [13:14]
-גירף
-
-Ron Klein [13:22]
-Wok away
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Roni Ashkenazi [12:01]
-מקסיקנה
-מנזה
-
-Roni Ashkenazi [12:16]
-פסטה ויה
-גוטה
-בראדלי
-
-Mor Meles [12:20]
-ריבר
-
-Mor Meles [12:33]
-יאשקה
-אוליב
-
-Roni Ashkenazi [12:40]
-לאנטריקוט
-הירו ראמן
-סלטים
-שף סלט
-שניצל קומפני
-המזנון
-
-Mor Meles [12:46]
-מרסלול
-מרסלוס
-
-Mor Meles [13:06]
-טייק טווחי
-ווק אוואי
-
-Mor Meles [13:12]
-מידו
-
-Timna Cramer [09:31]
-משהו רוצה להזמין מהתימני?
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Dafna Dayan [12:16]
-גוטה
-
-Dafna Dayan [12:26]
-אובן קובן
-שגב
-
-Dafna Dayan [12:32]
-ניני האצי
-רוזינקא
-דים סאם שופ
-מרסלוס
-דה פפרס
-גארס אנד בולס
-ווק אוואי
-מידו
-
-Dafna Dayan [12:49]
-יאשקה
-
-Avigail Berger [12:57]
-ליב
-
-Dafna Dayan [12:58]
-מנזה
-בכור את שושי
-גירף
-
-Roni Ashkenazi [13:41]
-גי'רף
-ריבר
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Timna Cramer [11:18]
-משהו רוצה להזמין מרוזינקא?
-
-Kobi Meirson [11:50]
-was added to #tlv-hq-lunch by Noy Arie. Also, Sara Hillel joined.
-
-Roni Ashkenazi [12:01]
-מנזה
-
-Roni Ashkenazi [12:06]
-גוטה
-ג'וזף אנד סאנס
-
-Roni Ashkenazi [12:15]
-רוזינקא
-
-Tal Gurevich [12:17]
-Giraffe
-
-Milena Matatov [12:21]
-אובן קובן
-
-Shoshana Friedman [12:24]
-breadly
-
-Dafna Dayan [12:36]
-אורבן פוש
-ריבר
-
-Dafna Dayan [12:52]
-שף סלט
-ניני האצי
-טנדורי
-יאשקה
-ברדלי
-מןזס
-מרסלוס
-
-Dafna Dayan [13:09]
-קופי בר
-
-Ronit Steinberg [13:29]
-הרצוג
-
-Danielle Morse [15:50]
-was added to #tlv-hq-lunch by Or Keren.
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Dafna Dayan [12:08]
-מקסיקנה
-גוטה
-
-Dafna Dayan [12:15]
-מאפאו
-
-Dafna Dayan [12:25]
-שניצל קומפני
-וונג
-שף סלט
-עמינדב
-קופי בר
-ג’ירף
-טנדורי
-זה סושי
-
-Dafna Dayan [12:39]
-yashka
-
-Nir Yogev [12:47]
-was added to #tlv-hq-lunch by Emanuel Shurki.
-
-Dafna Dayan [12:51]
-סאנדיי בראנץ
-ליב
-שגב
-גארס אנד בולס
-אובן קובן
-בכור את שושי
-
-Lior Baber [13:29]
-מידו
-
-Ronit Steinberg [13:42]
-ווק אוויי
-
-Roni Ashkenazi [13:45]
-נגיסה
-
-Matias Bielawski [14:19]
-השומר 1
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Roni Ashkenazi [12:02]
-גוטה
-
-Dafna Dayan [12:05]
-מנזה
-
-Dafna Dayan [12:17]
-התימני
-דה פפרס
-ברדלי
-
-Roni Ashkenazi [12:23]
-טנדורי
-שניצל קומפני
-ג'ירף
-
-Dafna Dayan [12:32]
-פלאפל גינה
-
-Dafna Dayan [12:37]
-קופי בר
-
-Roni Ashkenazi [12:49]
-מא פאו
-
-Dafna Dayan [12:49]
-מידו
-לאנטריקוט
-
-Roni Ashkenazi [12:51]
-שגב
-
-Dafna Dayan [12:53]
-סאנדיי בראנץ
-
-Roni Ashkenazi [12:54]
-זופה
-
-Roni Ashkenazi [13:02]
-ניני האצי
-
-Benny Sitbon [13:07]
-יאשקה
-מרסלוס
-רוזניקה
-שגב קונספט
-המטבח של תומר
-
-Itai Zaban [13:13]
-שף סלט
-
-Roni Ashkenazi [13:20]
-זוזוברה
-
-Roman Olshanskiy [13:21]
-ליב
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Irina Afanasyeva [11:05]
-Is someone experiencing the same problem with Ten Bis now?
-Screen Shot 2019-01-24 at 11.01.01.png
-
-
-Dafna Dayan [12:00]
-גוטה
-המטבחון
-
-Dafna Dayan [12:08]
-מנזה
-שף סלט
-
-NADAV SCHWARTZ [12:15]
-oshi oshi
-@tal.mizan
 ג׳ירף
-Yashka
-Captain curry
-שגב
-בכור את שושי
-זוזוברה
-ברדלי
-מיטש
-שניצל קומפני
-vong
-
-NADAV SCHWARTZ [12:43]
-liv
-תנדור
-
-NADAV SCHWARTZ [12:52]
-מרסלוס
-
-NADAV SCHWARTZ [12:54]
-ג׳אפו
-
-Dafna Dayan [13:12]
-המטבח של תומר
-
-Ron Klein [13:34]
-גוסטו
-מידו
-
-Dafna Dayan [14:58]
-גירף
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-NADAV SCHWARTZ [12:03]
-גוטה
-ספונטיני
-מקסיקנה
-vong
-מנזה
-river
-
-Milena Matatov [12:22]
-מקסיקנה
-
-Dafna Dayan [12:25]
-בינו
-קפטן קארי
-
-Dafna Dayan [12:30]
-גירף
-אורבן פוד
-המטבח של איריס
-דה פפרס
-זמירה
-ניני האצי
-מרסלןס
-טנדורי
-ze shushi
-ליב
-
-Dafna Dayan [12:53]
-שף סלט
-שניצל קומפני
-
-Keren Simon [13:05]
-סאנדיי בראנץ׳
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Dafna Dayan [12:12]
-גוטה
-
-Dafna Dayan [12:22]
-ברדל
-
-Dafna Dayan [12:33]
-שף סלט
-גארס אנד בולס
-זוזוברה
-
-Dafna Dayan [12:40]
-מידו
-מקסיקנה
-זופה
-מאפאו
-שניצל קומפני
-זמירה
-
-Roni Ashkenazi [12:50]
-ריבר
-טנדורי
-וולפנייטס
-
-Dafna Dayan [12:53]
-ze sushi
-
-Dafna Dayan [12:59]
-אובן קובן
-
-Dafna Dayan [13:08]
-לאנטריקוט
-יאשקה
-ליב
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-NADAV SCHWARTZ [11:52]
-גוטה
-
-Dafna Dayan [12:12]
-פיצרון
+גוטא
 הרצוג
-
-NADAV SCHWARTZ [12:13]
-מנזה
-
-Dafna Dayan [12:21]
+גו נודלס
 שניצל קומפני
+סוי ניטאן
+סוי
+מרקט פיק אנד מיקס
+סלטים
+Gaya Chomski (CA at ToHa) 12:19
+התימני
+Dafna Nakash (CA at ToHa) 12:21
+קוקוריקו
+Dafna Nakash (CA at ToHa) 12:28
 מקסיקנה
-רוזינקא
-urban food
-
-Dafna Dayan [12:36]
-גאפו
-יאשקה
-ריבר
-נון
-דה פפרס
-ביירן מרקט
-אינדירה
-מידו
-לאנטירקוט
-גארס אנד בולס
-
-Aviv Meital [12:43]
-אינדירה @zach.cohen3
-
-Dafna Dayan [12:48]
-בכור את שושי
-
-NADAV SCHWARTZ [12:58]
-vong
-
-Elad Itzhakian [13:09]
-פינת השלושה
-
-Ron Klein [13:41]
-סושימן
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Limor Mekaiten [10:54]
-@here קריאה לג'וזף אנד סאנס? :pray:
-
-Roni Ashkenazi [12:03]
-גוטה
-
-Dafna Dayan [12:04]
-פליישמן
-מנזה
-
-NADAV SCHWARTZ [12:06]
-הרצוג
-
-Roni Ashkenazi [12:12]
-ליב
-
-Dan Furas [12:13]
-הגיע טופולופומפו?
-
-Roni Ashkenazi [12:14]
-הגיע @dan.furas
-
-Dan Furas [12:14]
-בום יששש
-
-Roni Ashkenazi [12:14]
-גי'רף
-בראדלי
-
-Roni Ashkenazi [12:21]
-שניצל קומפני
-
-Roni Ashkenazi [12:28]
-מרסלוס
-וונג
-
-Dafna Dayan [12:32]
-אורבן פוד
-שף סלט
-המטבחון
-
-Dafna Dayan [12:43]
-מידו
-זה סושי
-יאשקה
-
-NADAV SCHWARTZ [12:50]
-צפרה
-
-NADAV SCHWARTZ [12:56]
-ניני האצ׳י
 noon
-
-Dafna Dayan [13:01]
-לאנטריקוט
-ליב
-התימני
-
-Roni Ashkenazi [13:04]
-אובן קובן
-נונונו
-
-Dafna Dayan [13:05]
-דה פפרס
-סושימן
-אוקינאווה
-שגב
-
-Elad Itzhakian [13:11]
-הבעלים של פיתה שווארמה מיקס מיאשקה מוזמן לאסוף אותה מקומה 48
-
-Dafna Dayan [13:14]
-@Elad Itzhakian יכול לשלוח לי מה השם על השקית בבקשה?
-
-Roni Ashkenazi [13:27]
-קופי בר
-
-NADAV SCHWARTZ [13:32]
-מנזה
-
-NADAV SCHWARTZ [13:44]
-פיצרון
-
-Isaac Fisher [14:17]
-WHY ARE YOU SHOUTING
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Omer van Kloeten [10:29]
-Reminder: There's a WeWork Lunch today
-
-Dafna Dayan [12:00]
-גוטה
-ברדלי
-
-Roni Ashkenazi [12:26]
-ג'ירף
-אורבן פוד
-פיש בר
-קופי בר
-
-Aviv Meital [10:11]
-@here
-- Olive Bugrashov
-- 25% Off
-
-Who’s in?
-https://www.10bis.co.il/next/Restaurants/Menu/Delivery/13728/%D7%90%D7%95%D7%9C%D7%99%D7%91%20%D7%91%D7%95%D7%92%D7%A8%D7%A9%D7%95%D7%91%20 (edited)
-10bis.co.il
-אוליב בוגרשוב  תפריט משלוחים - הזמן משלוח ממסעדת אוליב בוגרשוב  | תן ביס
-אוליב בוגרשוב משלוחים - תפריט משלוחים מפורט המאפשר הזמנה אונליין מכל כרטיס אשראי! בהזמנת משלוח ממסעדת אוליב בוגרשוב תוכלו ליהנות ממגוון הנחות תן ביס. תפריט אוליב בוגרשוב להזמנת משלוחים בלחיצת כפתור
-https://www.10bis.co.il/Content/Images/Restaurant/meatGrill_cuisine.png?ver=2
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Dafna Dayan [11:36]
-המטבח של איריס
-
-Dafna Dayan [12:00]
-פסטה ויה
-מנזה
-גוטה
-
-Dafna Dayan [12:23]
-שגב
-קופי בר
-ספונטיני
-
-Tomer Gabel [12:29]
-ליב
-
-Mor Meles [12:31]
-שניצל קומפני
-ג׳מילה
-קופי בר
-
-Dafna Dayan [12:35]
-אינדירה
-זוזוברה
-אוקינאווה
-כספי
-
-Tomer Gabel [12:44]
-אובן קובן
-יאשקה
-
-Dafna Dayan [12:49]
-ווק אוואי
-גאבה
-מרסלוס
-זה סושי
-
-Aviv Meital [13:28]
-Olive
-
-Itai Zaban [13:58]
-שף סלט
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Sara Hillel [10:48]
-Who wants to join `המטבח של תומר`?
-https://www.10bis.co.il/next/Restaurants/Menu/Delivery/21531/%D7%94%D7%9E%D7%98%D7%91%D7%97%20%D7%A9%D7%9C%20%D7%AA%D7%95%D7%9E%D7%A8%20
-:yum:
-10bis.co.il
-המטבח של תומר  תפריט משלוחים - הזמן משלוח ממסעדת המטבח של תומר  | תן ביס
-המטבח של תומר משלוחים - תפריט משלוחים מפורט המאפשר הזמנה אונליין מכל כרטיס אשראי! בהזמנת משלוח ממסעדת המטבח של תומר תוכלו ליהנות ממגוון הנחות תן ביס. תפריט המטבח של תומר להזמנת משלוחים בלחיצת כפתור
-https://www.10bis.co.il/Content/Images/Restaurant/homeMade_cuisine.png?ver=2
-
-NADAV SCHWARTZ [12:02]
-ברדלי
-מנדה
-
-Michael Katz [12:06]
-מנדה או מנזה?
-@nadav.schwartz
-
-Ayelet Marum [12:09]
-הרצוג
-מנזה
-שגב
-גוטה
-
-Ayelet Marum [12:27]
 המטבחון
-שף סלט
-יאשק
-יאשקה
-דים סאם שופ
-ליב
-שניצל קומפני
-טנדורי
-ניני האצ׳י
-וונג
-זה סושי
-
-NADAV SCHWARTZ [12:44]
-פסטה אי ויה
-זוזוברה
-יאשקה
-
-NADAV SCHWARTZ [12:56]
-רוזינקה
-
-Amir Grozki [13:04]
-ג'ירף
-
-Anna Zeiger [13:06]
-סאנדי בראנץ׳
-
-NADAV SCHWARTZ [13:06]
-ריבר
-
-Gilad Bar [13:06]
-פוקישופ? :sads:
-
-Ayelet Marum [14:56]
-ליטל בורגר
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-NADAV SCHWARTZ [12:04]
-Vong
-גוטה
-משק ברזילי
-דה פפרס אמסטרדם
-
-Ayelet Marum [12:17]
-ספונטיני
-מנזה
-קוקוריקו
-
-NADAV SCHWARTZ [12:26]
-LIV
-
-NADAV SCHWARTZ [12:33]
-מטבחון
-ObanCoban
-
-Ayelet Marum [12:35]
-שניצל קומפני
-מרסלוס
-בכור את שושי
-MaPau
-אורבן פוד
-
-Tahel Roy [12:40]
-was added to #tlv-hq-lunch by Benjamin Figdor.
-
-Ayelet Marum [12:41]
-ניני האצ׳י
-
-NADAV SCHWARTZ [12:48]
-ריבר
-רוזינקא
-יאשקה
-
-Noy Arie [12:58]
-יאשקה!!!
-
-NADAV SCHWARTZ [13:00]
-זוזוברה
-
-Anna Zeiger [13:02]
-שף סלט
-
-Ayelet Marum [13:10]
-ג׳ארז אנד בולז
-
-Avishai Lippner [13:19]
-ג'ירף
-Wok away
-Sushi house
-
-Sagiv Frankel [15:41]
-was added to #tlv-hq-lunch by Aviv Oren.
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Dotan Langsam [10:28]
-חסר לי מישהו למשק ברזילי… תהיו חברים
-
-Tomer Alon [10:31]
-Joseph & Sons anyone?
-https://www.10bis.co.il/next/Restaurants/Menu/Delivery/21259/%D7%92%D7%95%D7%96%D7%A3%20%D7%90%D7%A0%D7%93%20%D7%A1%D7%90%D7%A0%D7%A1
-10bis.co.il
-גוזף אנד סאנס תפריט משלוחים - הזמן משלוח ממסעדת גוזף אנד סאנס | תן ביס
-גוזף אנד סאנס משלוחים - תפריט משלוחים מפורט המאפשר הזמנה אונליין מכל כרטיס אשראי! בהזמנת משלוח ממסעדת גוזף אנד סאנס תוכלו ליהנות ממגוון הנחות תן ביס. תפריט גוזף אנד סאנס להזמנת משלוחים בלחיצת כפתור
-https://www.10bis.co.il/Content/Images/Restaurant/fishAndSeaFood_cuisine.png?ver=2
-
-Ron Klein [10:33]
-@dotan.langsam :+1:
-
-Valeriya Tsitron [10:51]
-Poke anyone? https://www.10bis.co.il/next/Restaurants/Menu/Delivery/22480/%D7%A4%D7%95%D7%A7%D7%99%D7%A9%D7%95%D7%A4
-10bis.co.il
-פוקישופ תפריט משלוחים - הזמן משלוח ממסעדת פוקישופ | תן ביס
-פוקישופ משלוחים - תפריט משלוחים מפורט המאפשר הזמנה אונליין מכל כרטיס אשראי! בהזמנת משלוח ממסעדת פוקישופ תוכלו ליהנות ממגוון הנחות תן ביס. תפריט פוקישופ להזמנת משלוחים בלחיצת כפתור
-https://www.10bis.co.il/Content/Images/Restaurant/asian_cuisine.png?ver=2
-
-NADAV SCHWARTZ [12:08]
-מנזה
-
-Ayelet Marum [12:09]
-קופי בר
-
-Ayelet Marum [12:14]
-רוניקא
-ברדלי
-
-Ayelet Marum [12:22]
-אובן קובן
-
-Matan Banner [12:27]
-גוטה
-
-Ayelet Marum [12:29]
-טנדורי
-שגב
-פפרס אמסטרדם
-יאשקה
-ליב
-סיטי קפה
-ג׳מילה
-זה סושי
-ריבר
-מידו
-וולפנייט
-כרמליס בייגלס
-פינת השלושה
-
-NADAV SCHWARTZ [12:54]
-zepra
-קוקוריקו
-פוקשופ
-לאנטריקוט
-מזנון
-
-Ayelet Marum [13:04]
-בזרילי
-פוקישופ
-
-Yuval Mendelbaum [13:08]
-אנשים שלקחו לאנטריקוט במקרה לקחתם מנת שניצל מיותרת?
-
-NADAV SCHWARTZ [13:08]
-ווק ריפבליק
-
-Yossi Shalem [13:13]
-מנזה
-ליב
-הירו ראמן
-
-NADAV SCHWARTZ [13:15]
-מרסלוס
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-NADAV SCHWARTZ [13:02]
-יאשקה
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-NADAV SCHWARTZ [12:00]
-גוטה
-
-NADAV SCHWARTZ [12:05]
-שגב
-
-Ayelet Marum [12:10]
-רוזינקא
-קופיבר
-
-NADAV SCHWARTZ [12:24]
-ג׳אמילה
-
-Ayelet Marum [12:27]
-ג׳ירף
-ניני האצ׳י
-ליב
-
-NADAV SCHWARTZ [12:31]
-מנזה
-ריבר
-
-Ayelet Marum [12:33]
-אנגוסרי
-פפרס אמסטרדם
-
-Alexander Berezovsky [12:40]
-was added to #tlv-hq-lunch by Roy Zinn.
-
-Ayelet Marum [12:45]
-יאשקה
-וונג
-אינדירה
-אורבן פוד
-זוזוברה
-
-Ayelet Marum [12:55]
-נון
-
-Mor Meles [13:13]
-סאנדיי בראנצ׳
-
-Sergey Panchenko [13:30]
-Captain curry
-
-Talia Nassi [14:11]
-Breadly
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-NADAV SCHWARTZ [11:58]
-Vong
-
-NADAV SCHWARTZ [12:04]
-Japo
-
-NADAV SCHWARTZ [12:15]
-טנדורי
-ברדלי
-גוטה
-
-NADAV SCHWARTZ [12:32]
-שינצל קמפני
-ריבר
-אנגוסרי
-הרצוג
-מנסה
-ג׳ינה
-ספונטיני
-
-Ayelet Marum [12:34]
-פלאפל ג׳ינה
-
-NADAV SCHWARTZ [12:34]
-בכור את שושי
-ליב
-
-Ayelet Marum [12:38]
-קופי בר
-זוזוברה
-
-NADAV SCHWARTZ [12:39]
-כרמליס בייגל
-
-Aviv Meital [12:46]
-Zupa
-
-NADAV SCHWARTZ [12:47]
-שגב
-ניני האצ׳י
-ג׳ירף
-קוקוריקו
-Urban food
-זה פפרס אמסטרדם
-סאנדיי בראנץ׳
-אובאןקובאן
-
-NADAV SCHWARTZ [13:02]
-חומוס הכרם
-יאשקה
-מרסלוס
-קרולינה
-
-NADAV SCHWARTZ [13:22]
-שף סלט
-
-Noam Hamou [13:32]
-מישהו במקרה לקח בטעות מנה של שניצל ממרסלוס?
-
-Eshed Aviv [13:38]
-was added to #tlv-hq-lunch by Elad Mazor.
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Ayelet Marum [11:40]
-מנזה
-
-Ayelet Marum [12:09]
-זוזוברה
-כספי
-
-Elad Mazor [12:24]
-מקסיקנה
-
-Benjamin Figdor [12:30]
-אורבן פוד
-
-Ayelet Marum [12:32]
-יאשקה
-התימני
-אובן קובן
-
-Mor Meles [12:32]
-הרצוג
-גוטה
-
-Ayelet Marum [12:32]
-ניני האצי
-מקסיקנה
-
-Mor Meles [12:32]
-וונג
-מנזה
-
-Ayelet Marum [12:33]
-גירף
-טנדורי
-זה סושי
-
-Ayelet Marum [12:42]
-אנגוסרי
-שניצל קומפני
-קופי בר
-
-NADAV SCHWARTZ [12:49]
-Liv
-לאנטריקוט
-
-Yuval Mendelbaum [13:38]
-מישהו לקח הזמנה של המבורג?
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Yaniv Michaelis [10:39]
-(ג׳חנון קול)
-
-Ayelet Marum [12:07]
-זה סושי
-
-Roni Ashkenazi [12:09]
-גוטה
-בראדלי
-בכור את שושי
-ג'ארס אנד בולס
-לילוש
-פסטה ויה
-
-Roni Ashkenazi [12:20]
-שניצל קומפני
-זוזוברה
-קופי בר
-
-Ayelet Marum [12:27]
-וונג
-
-Roni Ashkenazi [12:30]
-דה פפרס
-
-NADAV SCHWARTZ [12:41]
-שף סלט
-מנזה
-מידו
-ריבר
-
-Ayelet Marum [12:50]
-ליב
-ג׳אפו
-
-Ayelet Marum [12:56]
-ניני האצ׳י
-
-Roni Ashkenazi [13:00]
-אושי אושי
-לאנטריקוט
-
-NADAV SCHWARTZ [13:03]
-זה סושי
-
-Roni Ashkenazi [13:06]
-יאשקה
-המטבחון
-ג'ירף
-
-Roni Ashkenazi [13:49]
-טנדורי
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-NADAV SCHWARTZ [11:54]
-ג׳חנון קול
-
-NADAV SCHWARTZ [12:07]
-גוטה
-
-NADAV SCHWARTZ [12:22]
-טקריה
-
-Roni Ashkenazi [12:32]
-אורבן פוד
-ריבר
-
-NADAV SCHWARTZ [12:33]
-מקסיקנה
-
-Roni Ashkenazi [12:38]
-יאשקה
-
-Roni Ashkenazi [12:44]
-קפטן קארי
-
-Roni Ashkenazi [12:52]
-שף סלט
-מידו
-
-Omer Keren [12:56]
-כרמליס
-
-Marina Grechuhin [13:00]
-מרסלוס
-
-NADAV SCHWARTZ [13:01]
-ניני האצ׳י
-
-Kobi Meirson [13:02]
-ליב
-
-Tal Gurevich [13:15]
-if anyone ordered giraffe and doesn’t want their steamed Rice, blanca would appreciate it.
-
-NADAV SCHWARTZ [13:19]
-ג׳ארז אנד בולס
-
-Ilya Stavitsky [13:37]
-Allora
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-NADAV SCHWARTZ [11:51]
-מינזה
-
-Ayelet Marum [12:14]
-דוניא
-
-Omer Keren [12:22]
-ג׳ירף
-
-Ayelet Marum [12:27]
-ליב
-
-Roni Ashkenazi [12:27]
-המטבחון
-פסטה ויה
-אורבן פוד
-דים סם שופ
-
-Roni Ashkenazi [12:42]
-שניצל קומפני
-מרסלוס
-נון
-
-Roni Ashkenazi [12:51]
-אובן קובן
-זה סושי
-טנדורי
-
-Noa Adamsky [12:58]
-גוטה
-
-Roni Ashkenazi [13:07]
-קופי בר
-ג'ארס אנד בולס
-
-Milena Matatov [13:21]
-מידו
-
-Roni Ashkenazi [13:22]
-שף סלט
-
-Valeriya Tsitron [14:52]
-hi team - i accidentally ordered a chicken dish from Vong restaurant (i dont eat meat) - if anyone is interested, come by, happy to hand it off to you! it looks yummy :slightly_smiling_face:
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Roni Ashkenazi [12:14]
-הרצוג
-דה פפרס
-טנדורי
-קופיבר
-
-Roni Ashkenazi [12:28]
-גוטה
-
-NADAV SCHWARTZ [12:33]
-מנזה
-
-NADAV SCHWARTZ [12:42]
-קופי בר
-ליב
-טנדורי
-
-Roni Ashkenazi [12:53]
-ג'ירף
-אובן קובן
-ג'וזף אנד סאנס
-נון
-שגב
-אורבן פוד
-זוזוברה
-מרסלוס
-יאשקה
-
-Omri Shuva [13:12]
-תימני
-
-Roni Ashkenazi [13:12]
-פלאפל ג'ינה
-שף סלט
-סאנדיי בראנץ'
-מידו
-
-Benny Sitbon [09:50]
-מישהו זורם איתי להזמין קוקוריקו שרונה?
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Roni Ashkenazi [12:03]
-המטבחון
-
-Roni Ashkenazi [12:10]
-וואק אווי
-קוקוריקו
-כספי
-ג'ירף
-
-Roni Ashkenazi [12:20]
-זוזוברה
-
-Roni Ashkenazi [12:27]
-ליב
-בורגרים
-
-NADAV SCHWARTZ [12:33]
-פינת השלושה
-דה פפרס
-אנגוס
-מנזה
-זה סושי
-יאשקה
-
-Ayelet Marum [12:50]
-ג׳ארז אנד בולז
-פוקי
-שגב
-
-NADAV SCHWARTZ [13:07]
-ג׳אפו
-זוזוברה
-
-Sagiv Frankel [13:32]
-מידו
-
-On Freund [10:19]
-No more מרסלוס?
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Yonatan Bergman [10:21]
-Ordering from דה סטריטס - https://www.10bis.co.il/next/Restaurants/Menu/Delivery/16216/%D7%93%D7%94%20%D7%A1%D7%98%D7%A8%D7%99%D7%98%D7%A1
-10bis.co.il
-דה סטריטס תפריט משלוחים - הזמן משלוח ממסעדת דה סטריטס | תן ביס
-דה סטריטס משלוחים - תפריט משלוחים מפורט המאפשר הזמנה אונליין מכל כרטיס אשראי! בהזמנת משלוח ממסעדת דה סטריטס תוכלו ליהנות ממגוון הנחות תן ביס. תפריט דה סטריטס להזמנת משלוחים בלחיצת כפתור
-https://www.10bis.co.il/Content/Images/Restaurant/italian_cuisine.png?ver=2
-
-Roni Ashkenazi [12:02]
-מנזה
-
-NADAV SCHWARTZ [12:11]
-במבי
-מאפאו
-סטרייטס
-
-Ayelet Marum [12:19]
-ווק אוואי
-
-Dafna Dayan [12:24]
-דה סטריטס
-מקסיקנה
-
-Gilad Bar [12:25]
-@here Going out to Azrielli to get some Bayern Market hot dogs :heart_eyes: Anyone wanna join us? :hotdog::dancing_hotdog: (edited)
-
-Dafna Dayan [12:25]
-דה פפרס
-ליב
-ג’ירף
-
-Roni Ashkenazi [12:32]
-טנדורי
-
-Tamir Kfir [12:39]
-was added to #tlv-hq-lunch by Noy Arie.
-
-Roni Ashkenazi [12:41]
-קופי בר
-יאשקה
-זוזוברה
-סאנדיי בראנץ'
-כרמליס
-אורבן פוד
-בראדלי
-
-NADAV SCHWARTZ [12:51]
-עד העצם
-
-NADAV SCHWARTZ [12:57]
-פינת השלושה
-
-Keren Simon [13:13]
-שניצל קומפני (edited)
-
-Limor Mekaiten [13:28]
-ניני האצ'י
-@isaac.fisher
-
-Eran Hazoum [14:04]
-בכור את שושי עוד לא הגיעו?
-
-Milena Matatov [15:45]
-משלוח של זוזוברה הגיע שוב עם אותן המנות מהצהריים
-
-Oren Iflah [15:59]
-was added to #tlv-hq-lunch by Mayan Gorelik.
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-NADAV SCHWARTZ [12:08]
-טנדורי
-
-Roni Ashkenazi [12:26]
-ג'וזף רנד סאנס
-ריבר
-
-Dafna Dayan [12:36]
-דה סטריטס
-דים סם שופ
-
-Roni Ashkenazi [12:39]
-אורבן פוד
-זוזוברה
-גוטה
-
-Dafna Dayan [12:41]
-גורמה 26
-שף שלט
-סלט**
-שגב
-ניני האצי
-
-NADAV SCHWARTZ [12:45]
-המטבח של איריס
-יאשקה
-
-Dafna Dayan [12:46]
-שניצל קומפני
-דוניא
-אובן קובן
-ליב
-קופי בר
-
-Dafna Dayan [13:01]
-מידו
-
-Lior Burg [13:02]
-גירף
-
-Tahel Roy [13:17]
-Who took the streets?
-
-Harel Shein [13:28]
-מזנון
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-NADAV SCHWARTZ [12:14]
-פסטה א ויה
-מנזה
-ליב
-
-NADAV SCHWARTZ [12:22]
-טנדורי
-סוי
-גוטה
-אורבן פוד
-דוניא
-
-NADAV SCHWARTZ [12:41]
-ריבר
-
-NADAV SCHWARTZ [12:47]
-קופי בר
-דה פפרס
-פיתרון
-כרמליס ביגל
-התימני
-מינה טומיי
-קפטיין קארי
-דה סושי
-ברדלי
-הרצוג
-נון
-זוזוברה
-
-Ilya Stavitsky [13:00]
-Wolfnights
-
-Roni Ashkenazi [13:05]
-מידו
-מרסלוס
-וולפנייטס
-@rotem.regev
-
-Rotem Regev [13:10]
-was added to #tlv-hq-lunch by Roni Ashkenazi.
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Or Peretz [10:44]
-מישהו מתכוון להזמין ג׳ארז אנד בולז? @here
-
-Ayelet Marum [12:06]
-גוטה
-פפרס
-גודנס
-
-NADAV SCHWARTZ [12:11]
-זוזוברה
-גירף
-
-NADAV SCHWARTZ [12:21]
-טנדורי
-
-NADAV SCHWARTZ [12:32]
-אורבן פוד
-שגב
-קופי בר
-
-Ayelet Marum [12:40]
-מנזה
-ליב
-בינו
-סוי
-
-Dima Kuchin [12:54]
-ניני האצי
-
-Vicky Books [13:09]
-גארס אנד בולס
-
-Rony Langbord [13:12]
-מי הזמין שגב ?
-
-Dotan Langsam [13:20]
-הרצוג הגיע
-מי הזמין? כי יש פה שתי מנות בגדלים שונים ואני לא בטוחה מה שלי (edited)
-
-Dotan Langsam [13:23]
-אז מי שהזמין הרצוג, זה האוכל שלך.
-IMG_20190225_132327.jpg
-
-
-Shoshana Friedman [13:24]
-mido
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Roni Ashkenazi [12:20]
-מנזה
-טנדורי
-בראדלי
-זוזוברה
-ליב
-עמינדב
-ג'ירף
-מרסלוס
-מקסיקנה
-אורבן פוד
-המטבחון
-
-Elad Itzhakian [12:38]
-גוטה
-
-NADAV SCHWARTZ [12:41]
-ניני האצ׳י
-התימני
-
-Itai Zaban [12:56]
-קישריה
-
-Avishai Lippner [12:59]
-ג’ירף הגיע?
-כי רשמו שהוא הגיע והוא לא שם :thinking_face:
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Isaac Fisher [10:51]
-Someone wanna join? https://www.10bis.co.il/next/Restaurants/Menu/Delivery/22480/%D7%A4%D7%95%D7%A7%D7%99%D7%A9%D7%95%D7%A4
-10bis.co.il
-פוקישופ תפריט משלוחים - הזמן משלוח ממסעדת פוקישופ | תן ביס
-פוקישופ משלוחים - תפריט משלוחים מפורט המאפשר הזמנה אונליין מכל כרטיס אשראי! בהזמנת משלוח ממסעדת פוקישופ תוכלו ליהנות ממגוון הנחות תן ביס. תפריט פוקישופ להזמנת משלוחים בלחיצת כפתור
-https://www.10bis.co.il/Content/Images/Restaurant/asian_cuisine.png?ver=2
-
-NADAV SCHWARTZ [12:09]
-גוטה
-
-NADAV SCHWARTZ [12:25]
-טנדורי
-ברדלי
-מנזה
-מרסלוס
-המטבחון
-מא פאו
-השאורמה של שהרבני:scream:
-אורבן פוד
-סוי
-
-Ayelet Marum [12:41]
-פפרס
-המבורג
-שף סלט
-קופי בר
-
-Roni Ashkenazi [12:46]
-מידו
-ניתן טאי
-מא פאו
-
-Avishai Naimer [12:53]
-סאנדיי בראנץ
-
-NADAV SCHWARTZ [12:55]
-זוזוברה
-דיקסי
-ריבר
-אוליברי
-סלטים
-
-Aviv Oren [13:19]
-בכור את שושי
-
-Elad Itzhakian [13:58]
-ג׳ירף? :disappointed:
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Roni Ashkenazi [12:18]
-ג'ירף
-
-NADAV SCHWARTZ [12:24]
-מנזה
-
-NADAV SCHWARTZ [12:42]
-חצ׳פורי:man-shrugging:
-
-NADAV SCHWARTZ [12:43]
-קפטן קורי
-ליב
-ברוך ובניו
-
-Ayelet Marum [12:49]
-אוליברי
-
-Sergey Panchenko [12:58]
-Cofeebar
-
-Ayelet Marum [12:59]
-מרסלוס
-בראדלי
-קופי בר
-זוזוברה
-
-Ayelet Marum [13:16]
-המטבחון
-
-Elad Mazor [13:33]
-פינת השלושה
-
-Itai Zaban [13:55]
-ניני האצי
-
-Shai Tubul [09:22]
-@here בוקר טוב לכל המזמינים :slightly_smiling_face:
-לפני שאתם מזמינים אוכל היום אשמח אם תתנסו בתוסף שהכנתי עבורכם:
-https://chrome.google.com/webstore/detail/wework-deliveries-arrival/boceoiojiikmojhlgfmgadkcdplmgmfn
-
-בעזרת התוסף תוכלו לראות שערוך לזמן ההגעה של המשלוח שלכם, וכן מהי רמת הדיוק של המסעדה לשעה זו.
-המידע מסתמך על ההודעות שנשלחו בקבוצה זו :wink:
-רצוי לציין שלא כל המסעדות מופיעות בו עדיין. אם אראה שהתוסף שימושי אריץ עוד שאילתות לשאר המסעדות.
-chrome.google.com
-WeWork Deliveries Arrival Estimator
-Estimate the arrival time of your 10bis food delivery.
-
-Shai Tubul [09:23]
-לדוגמה
-Screen Shot 2019-03-03 at 9.18.54.png
-
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Roni Ashkenazi [12:01]
-מינזה
-הרצוג
-
-Roni Ashkenazi [12:09]
-קופי בר
-
-Roni Ashkenazi [12:17]
-קוקוריקו
-
-Roni Ashkenazi [12:24]
-ניני האצי
-טנדורי
-גירף
-דה פפרס
-סאנדי בראנץ
-זה סושי
-
-NADAV SCHWARTZ [12:45]
-שניצל קומפוני
-ריבר
-גוטה
-ליב
-
-NADAV SCHWARTZ [12:59]
-מרסלוס
-קופי בר
-שגב
-ג׳ינה
-קוקו ריקו
-דוניא
-
-Ayelet Marum [13:26]
-שף סלט
-
-Shoshana Friedman [13:35]
-jars and bowls
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Roni Ashkenazi [12:04]
-בראדלי
-
-Roni Ashkenazi [12:10]
-מקסיקנה
-
-Ayelet Marum [12:20]
-קופי בר
-דה פפרס
-מנזה
-בכור את שושי
-
-Ayelet Marum [12:27]
-סוי
-
-Roni Ashkenazi [12:29]
-@gal.haramaty
-
-Gal Haramaty [12:29]
-was added to #tlv-hq-lunch by Roni Ashkenazi.
-
-Roni Ashkenazi [12:31]
-אורבן פוד
-
-Ayelet Marum [12:32]
-זוזוברה
-טנדורי
-ניטן תאי
-
-Roni Ashkenazi [12:33]
-שניצל קומפני
-פסטה ויה
-ריבר
-
-Kobi Meirson [12:47]
-יאשקה
-
-Ayelet Marum [12:49]
-ליב
-המטבחון
-מסלצינה
-שומשום בר
-
-Ayelet Marum [13:08]
-ניני האצ׳י
-
-Ayelet Marum [13:09]
-גרקו
-ג׳ארז אנד בולז
-
-Lior Burg [13:12]
-סאנדיי בראנץ
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Roni Ashkenazi [11:02]
-@ben.kushnir
-
-Ben Kushnir [11:02]
-was added to #tlv-hq-lunch by Roni Ashkenazi.
-
-Limor Mekaiten [11:13]
-@here מישהו הזמין סלמון מאורבן פוד ויכול להמליץ/להזהיר?
-
-Danny Mor [11:19]
-was added to #tlv-hq-lunch by Or Keren.
-
-NADAV SCHWARTZ [12:09]
-הרצוג
-שף סלט
-מנזה
-
-Roni Ashkenazi [12:12]
-גוטה
-
-NADAV SCHWARTZ [12:13]
-מקסיקנה
-
-NADAV SCHWARTZ [12:29]
-ג׳פו
-סאנדיי בראנץ׳
-אובן קובן
-ליב
-מרסלוס
-ניני האצ׳י
-שניצל קומפני
-סוי
-
-NADAV SCHWARTZ [12:43]
-שגב
-ג׳ירף
-בינו
-בכור את שושי
-
-Adi Zahi [13:12]
-דה פפרס
-
-Adi Saranga [13:18]
-Noon
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Ayelet Marum [11:46]
-רוזינקא
-
-Omer van Kloeten [11:53]
-שגב @shani.geula @Itay Fisher
-
-NADAV SCHWARTZ [12:06]
-גירף
-
-NADAV SCHWARTZ [12:17]
-טנדורי
-מנזה
-ג׳וזף אנד סאן
-ספונטיני
-שניצל קאמפני
-קוקוריקו
-עוד ג׳ירף
-אורבן פוד
-
-Ayelet Marum [12:27]
-זה סושי
-
-Ayelet Marum [12:33]
-זמירה אקספרס
-
-NADAV SCHWARTZ [12:34]
-זוזוברה
-
-Ayelet Marum [12:36]
-בכור את שושי
-מוצה
-וונג
-פיצרון
-
-Roni Ashkenazi [12:39]
-ניני האצי
-
-Ayelet Marum [12:39]
-גוטה
-
-Ayelet Marum [12:45]
-המטבחון
-
-NADAV SCHWARTZ [12:46]
-סוי
-
-NADAV SCHWARTZ [13:00]
-מידו
-מרסלוס
-מוצ׳ה
-
-NADAV SCHWARTZ [13:10]
-קופי בר
-
-Milena Matatov [13:22]
-עמינדב
-
-Roman Olshanskiy [13:24]
-ליב
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-NADAV SCHWARTZ [11:59]
-שגב
-
-Roni Ashkenazi [12:04]
-גוטה
-בראדלי
-
-NADAV SCHWARTZ [12:19]
-ליב
-סוי
-אובן קובן
-
-NADAV SCHWARTZ [12:30]
-ג׳מילה
-אורבן פוד
-
-NADAV SCHWARTZ [12:37]
-טנדורי
-זוזוברה
-
-NADAV SCHWARTZ [12:42]
-מידו
-שף סלט
-שניצל קומפני
-ניני האצ׳י
-מנזה
-
-Yotam Bloom [13:26]
-קפטן קארי????
-
-Dima Kuchin [13:36]
-Captain Curry bag is here
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-NADAV SCHWARTZ [12:03]
-מנזה
-ספונטיני
-כספי
-ברדלי
-בורגרים
-
-NADAV SCHWARTZ [12:24]
-קוקוריקו
-
-Roni Ashkenazi [12:30]
-גוטה
-זוזוברה
-ג'ירף
-
-Roni Ashkenazi [12:36]
-אורבן פוד
-דה פפרס
-התימני
-ליב
-וונג
-
-NADAV SCHWARTZ [12:46]
-הרצוג
-
-Roni Ashkenazi [12:49]
-מרסלוס
-
-Shoshana Friedman [13:36]
-@here anyone else order from tandoori?
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Roni Ashkenazi [11:56]
-אנרג'וסר
-
-Roni Ashkenazi [12:16]
-שף סלט
-
-Ayelet Marum [12:22]
-אורבן פוד
-
-Roni Ashkenazi [12:25]
-שניצל קומפני
-
-Roni Ashkenazi [12:32]
-גוטה
-
-NADAV SCHWARTZ [12:33]
-Vong
-
-Roni Ashkenazi [12:40]
-קופי בר
-ליב
-קפטן קארי
-ניני האצי
-עמינדב
-
-Kobi Meirson [12:54]
-מידו
-
-Roni Ashkenazi [13:07]
-טנדורי
-
-Lior Baber [13:07]
-@harel.shein :point_up:
-
-Rachel Kamins [13:31]
-anyone else order from Sunday Brunch?
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Roni Ashkenazi [12:27]
-גוטה
-ג'אמילה
-
-NADAV SCHWARTZ [12:34]
-ג׳ירף
-אורבן
-הירו
-מנזה
-גו נודלס
-וואק ריפבליק
-
-NADAV SCHWARTZ [12:43]
-שגב
-ג׳אפו
-בראדלי
-התימני
-הרצוג
-מידו
-
-Talia Nassi [12:53]
-יאשקה
-
-Roman Olshanskiy [13:01]
-ליב
-
-NADAV SCHWARTZ [13:02]
-משק ברזילאי
-מרסלוס
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-NADAV SCHWARTZ [12:22]
-מנזה
-שף סלט
-פיורי
-אורבן פוד
-
-Yuval Itzchakov [12:31]
-ג'אפו
-
-NADAV SCHWARTZ [12:32]
-ג׳ירף
-מידו
-
-NADAV SCHWARTZ [12:42]
-טנדורי
-ליב
-בראדלי
-קופי בר
-קוקוריקו
-פיורי
-גוטה
-הרצוג
-יאשקה
-
-Dan Furas [12:54]
-מרסלוס?
-
-NADAV SCHWARTZ [12:54]
-מרסלוס
-
-Dan Furas [12:55]
-:muscle:
-
-Rony Langbord [12:57]
-ניני האצי? :pray::skin-tone-3:
-
-NADAV SCHWARTZ [13:03]
-ניני האצ׳י
-
-Barak Cohen [13:07]
-איפה היאשקה?
-
-Limor Mekaiten [13:17]
-הגיע קישריה? (edited)
-
-NADAV SCHWARTZ [13:18]
-שגב
-
-Noa Davidovich [13:24]
-קישריה הגיע
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Ayelet Marum [12:23]
-המבורג
-
-Ayelet Marum [12:31]
-גוטה
-אינדירה
-
-Yuval Itzchakov [12:45]
-ליב
-אורבן פוד
-
-Ayelet Marum [13:06]
-מנזה
-בכור את שושי
-עמינדב
-
-NADAV SCHWARTZ [13:16]
-ניני האצ׳י
-
-Yuval Itzchakov [13:19]
-נדב, אני מתחיל מחאה על שינוי השם ל Nadav Schwartz.
-
-Make NADAV SCHWARTZ great (and caps) again!
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Jasmine Esulin [10:39]
-Jars & Bowls anyone? :pray::skin-tone-3:
-
-NADAV SCHWARTZ [12:02]
-יאשקה
-
-NADAV SCHWARTZ [12:20]
-התיימני
-
-NADAV SCHWARTZ [12:26]
-זוזוברה
-גוטה
-הרצוג
-ג׳ארז אנד בולס
-זה סושי
-
-NADAV SCHWARTZ [12:48]
-מרסלוס
-סושי מן
-אורבן פוד
-
-NADAV SCHWARTZ [12:56]
-ליב
-
-Roni Ashkenazi [13:12]
-טנדורי
-סאנדיי בראנץ'
-לאנטריקוט
-
-NADAV SCHWARTZ [13:43]
-ג׳ירף
-
-Valeriya Tsitron [14:03]
-Anybody else order from Chef Salad today?
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Roni Ashkenazi [11:59]
-שף סלט
-
-NADAV SCHWARTZ [12:10]
-מנזה
-ברדלי
-זוזוברה
-
-NADAV SCHWARTZ [12:25]
-גוטה
-דה פפרס
-פיורי
-שגב
-כרמליס
-
-NADAV SCHWARTZ [12:35]
-מקסיקנה
-קופי בר
-יאשקה
-צפרה
-מידו
-עוד מנזה
-
-Adi Saranga [13:44]
-ליב
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-NADAV SCHWARTZ [12:13]
-גוטה
-סוי
-דה פפרס
-מה פאו
-
-Roni Ashkenazi [12:25]
-אורבן פוד
-עמינדב
-הרצוג
-
-NADAV SCHWARTZ [12:34]
-ליב
-
-NADAV SCHWARTZ [12:49]
-vong
-
-Roni Ashkenazi [12:49]
-בכור את שושי
-גוטה
-ג'ירף
-
-NADAV SCHWARTZ [12:54]
-מרסלוס
-
-Dan Furas [12:54]
-יאשקה ? :disappointed:
-
-Keren Simon [13:05]
-@michal.dotan Sunday brunch
-
-NADAV SCHWARTZ [13:08]
-ניני האצ׳י
-
-Tal Levitus Asheri [13:09]
-יאשקה?
-:joy:
-
-Yotam Bloom [13:17]
-וולפנייט????
-
-NADAV SCHWARTZ [13:18]
-קופי בר
-
-Roni Ashkenazi [13:23]
-יאשקה!!
-
-Matias Bielawski [13:32]
-התימני
-
-Yoav Codish [13:45]
-וולפנייט
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-NADAV SCHWARTZ [12:06]
-טנדורי
-גוטה
-
-NADAV SCHWARTZ [12:22]
-japo
-הרצוג
-דה פפרס
-
-NADAV SCHWARTZ [12:28]
-קפטן קארי
-מנזה
-קוקוריקו
-אורבן פוד
-
-Roni Ashkenazi [12:38]
-מידו
-שף סלט
-קופי בר
-
-NADAV SCHWARTZ [12:46]
-יאשקה
-
-Roni Ashkenazi [12:47]
-זוזוברה
-יאשקה
-
-Roni Ashkenazi [13:16]
-אוליברי
-
-Roni Ashkenazi [13:24]
-סואי סושי
-
-Roni Ashkenazi [13:34]
-קוקוריקו
-
-Roni Ashkenazi [13:39]
-ברווזי
-
-NADAV SCHWARTZ [13:41]
-פילדלפיה
-
-Rachel Kamins [14:03]
-jars and bowls? :disappointed:
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-NADAV SCHWARTZ [11:42]
-טנדורי
-גוטה
-
-NADAV SCHWARTZ [12:07]
-מנזה
-ברדלי
-שף סלט
-
-NADAV SCHWARTZ [12:18]
-הירו רמאן
-
-Roni Ashkenazi [12:26]
-מרסלוס
-אורבן פוד
-ליב
-וונג
-
-NADAV SCHWARTZ [12:42]
-מידו
-ריבר
-יאשקה
-
-NADAV SCHWARTZ [13:00]
-ניני האצ׳י
-דוניאה
-קוקוריקו
-ג׳ירף
-
-Omer Keren [13:06]
-צ׳יקילילה
-
-Yotam Bloom [13:19]
-מפאו?
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Roni Ashkenazi [12:08]
-גוטה
-ג'פו
-
-Roni Ashkenazi [12:16]
-דה פפרס
-דוניא
-מנזה
-שף סלט
-מקסיקנה
-מידו
-אורבן פוד
-קופיבר
-ספונטיני
-זה סושי
-
-Ayelet Marum [12:57]
-ערוסה
-הרצוג
-יאשקה
-מרסלוס
-כספי
-
-Benny Sitbon [13:10]
-גירף? :cry:
-
-Michael Katz [13:12]
-זוזוברה
-?
-
-Ron Sherf Sadot [13:17]
-זוזוברה הגיע
-
-Adi Dagan [13:19]
-ריבר הגיע ?
-
-Maayan Dafni Kalinsky [13:28]
-ג'ירף
-
-Omri Shuva [13:46]
-Vong
-
-Ben Pony [10:14]
-was added to #tlv-hq-lunch by Eti Noked.
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Roni Ashkenazi [12:15]
-גוטה
-דה פפרס
-ג'ארס אנד בולס
-
-Roni Ashkenazi [12:30]
-זוזוברה
-מידו
-ביירן מרקט
-קוקוריקו
-וולפנטייס
-
-NADAV SCHWARTZ [12:37]
-שף סלט
-
-NADAV SCHWARTZ [12:39]
-המבורגר הפקות
-
-NADAV SCHWARTZ [12:40]
-השנצליה
-
-NADAV SCHWARTZ [12:45]
-ברדלי
-כספי
-
-Roni Ashkenazi [13:11]
-ליב
-
-Roni Ashkenazi [13:28]
-יאשקה
-
-Roni Ashkenazi [13:33]
-קופי בר
-
-Tamir Kfir [13:35]
-זה סושי ב50 אם מישהו מחפש (edited)
-
-Yaniv Michaelis [13:37]
-התימני, 50
-
-Yotam Bloom [13:42]
-מנזה?
-
-Roni Ashkenazi [13:45]
-מנזה
-
-On Freund [09:37]
-מי פה מומחה לביירן? סינגל או דאבל לארוחת צהריים?
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Yasha Gootkin [12:07]
-was added to #tlv-hq-lunch by Nadav Pozmantir.
-
-Milena Matatov [12:09]
-שף סלט
-
-Tomer Gabel [12:14]
-מידו
-
-Ayelet Marum [12:16]
-ליב
-
-Ayelet Marum [12:58]
-זוזוברה
-
-Roni Ashkenazi [12:59]
-יאשקב
-מנזה
-בכור את שושי
-דוניא
-נון
-ריבר
-ניני האצי
-שניצל קומפני
-וולפנייט
-
-Roni Ashkenazi [13:16]
-המבורג
-
-Keren Simon [13:48]
-שגב?
-
-Yuval Mendelbaum [13:51]
-אורבן פוד?
-
-Yuval Mendelbaum [13:51]
-הצילו?
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-NADAV SCHWARTZ [12:01]
-מנזה
-שף סלט
-
-NADAV SCHWARTZ [12:31]
-מידו
-ג׳וזף אנד סאן
-מנזה
-יאשקה
-דה פפרס
-וולט
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Roni Ashkenazi [12:15]
-ג'אפו
-מא פאו
-גוטה
-
-NADAV SCHWARTZ [12:17]
-טנדורי
-
-Roni Ashkenazi [12:28]
-מקסיקנה
-דה פפרס
-שגב
-
-NADAV SCHWARTZ [12:39]
-קופי בר
-צפרה
-ג׳וזף אנד סאן
-ספונטיני
-שניצל קומפני
-
-Roni Ashkenazi [12:55]
-זוזוברה
-זה סושי
-ניני האצי
-ספונטיני
-ג'ירף
-ליב
-פינת השלושה
-
-Kobi Meirson [13:11]
-יאשקה
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Noa Adamsky [11:43]
-@here 10bis called to say Giraffe will arrive around 14:00, maybe eralier
-
-NADAV SCHWARTZ [12:17]
-מנזה
-דה פפרס
-גוטה
-קוקוריקו
-
-Roni Ashkenazi [12:23]
-בראדלי
-
-Roni Ashkenazi [12:37]
-מרסלוס
-מא פאו
-שף סלט
-בורגרים
-ספונטיני
-מידו
-ליב
-
-Roni Ashkenazi [12:47]
-אורבן פוד
-זוזוברה
-
-NADAV SCHWARTZ [12:54]
-אורבן פוד
-קופי בר
-זוזוברה
-
-NADAV SCHWARTZ [13:25]
-ג׳ירף
-עוד קופי בר
-
-Eti Noked [13:30]
-וולפנייט
-
-Maia Cowan [13:33]
-יכול להיות שמישהו בטעות לקח קומבינציית סושי מהשקית של גירף?
-
-Roni Ashkenazi [10:03]
-@ariel.mizrachi
-
-Ariel Mizrachi [10:03]
-was added to #tlv-hq-lunch by Roni Ashkenazi.
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Ariel Mizrachi [11:44]
-הירו ראמן
-
-Ariel Mizrachi [12:20]
-גוטה
-ג׳אפו
-קופי בר
-
-Roni Ashkenazi [12:48]
-ג'ירף
-פיורי
-
-Tomer Gabel [12:48]
-מידו
-
-Shiran Asulin Entin [12:50]
-אוליב
-מידו
-ברווזי
-פיצרון
-שניצל קומפני
-קפטן קארי
-
-Roni Ashkenazi [12:56]
-ניני האצי
-זוזוברה
-דה פפרס
-
-Daniel Boskys [13:16]
-מנזה
-
-NADAV SCHWARTZ [13:19]
-שגב
-שף סלט
-המבורג
-סלטים
-
-Kobi Meirson [13:21]
-Wok Away
-
-Aviv Meital [13:23]
-יאשקה
-
-Yossi Shalem [13:26]
-מקסיקנה
-גאפו
-
-Shem Magnezi [13:53]
-פינת השלושה
-@eti.noked
-
-Ayelet Marum [14:10]
-קוקוריקו
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Benny Sitbon [11:09]
-Pasted image at 2019-04-02, 11:09 AM
-
-
-Benny Sitbon [11:09]
-living on the edge
-Posted using /giphy
-https://media1.giphy.com/media/bj9NuYnPUURRS/giphy-downsized.gif?cid=6104955e5ca318d154596d32511097a3
-
-Roni Ashkenazi [12:42]
-שף סלט
-לאנטריקוט
-
-Kobi Meirson [12:42]
-גוטה
-הרצוג
-ג׳ירף
-ליב
-ביירן מרקט
-סוי
-דה פפרס אמסטרדם
-
-Roni Ashkenazi [12:42]
-פיורי
-
-Kobi Meirson [12:43]
-מרסלוס
-
-Roni Ashkenazi [12:43]
-שניצל קומפני
-בכור את שושי
-פוקה
-
-Omri Shuva [12:50]
-מידו
-
-Roni Ashkenazi [12:55]
-אורבן פוד
-סלטים
-משק ברזילי
-
-Dan Sincai [13:00]
-was added to #tlv-hq-lunch by Rotem Keren-Azulay.
-
-Shani Geula [13:01]
-מישהו לקח שקית גדולה של שף סלט?
-
-Shoshana Friedman [13:12]
-אני גם מחפשת שף סלט @here
-
-Roni Ashkenazi [13:17]
-פלאפל ג'ינה
-אובן קובן
-ג'ארס אנד בולס
-ג'ירף
-דוניא
-וולפנייטס
-ווק אווי
-
-Eran Hazoum [13:25]
-יאשקה
-
-Roni Ashkenazi [13:37]
-רוטיסרי בשוק
-אנינה בשוק
-קופי בר
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Irina Afanasyeva [11:05]
-ג'ארס אנד בולס מישהו? חסר לנו 13 שקל :pray:
-
-NADAV SCHWARTZ [11:58]
-מנזה
-
-NADAV SCHWARTZ [12:14]
-גוטה
-
-Ayelet Marum [12:14]
-טנדורי
-דה פפרס
-
-Ayelet Marum [12:23]
-הרצוג
-
-Shoshana Friedman [12:28]
-schnitzel & company
-
-NADAV SCHWARTZ [12:34]
-מרסלוס
-
-NADAV SCHWARTZ [12:41]
-מידו
-זוזוברה
-
-Kobi Meirson [12:56]
-ליב
-אורבן פוד
-קופי בר
-פפר
-דה פפרס אמסטרדם
-Noon
-
-Ariel Mizrachi [12:58]
-קופי בר
-
-Ariel Mizrachi [13:31]
-ג׳ירף
-אנטריקוט
-מקסיקנה
-
-Ariel Mizrachi [13:37]
-זמירה אקספרס
-
-Aviv Meital [13:58]
-אינדירה @zach.cohen3
-
-Noa Adamsky [13:59]
-כרמליס בייגלס
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Dovrat Gilboa [10:31]
-@here Don’t forget - our beloved Italian chef Angelo coming today
-
-Rona Lankry [11:03]
-גאפו מישהו?
-
-NADAV SCHWARTZ [11:52]
-בכור את שושי
-
-Ariel Mizrachi [12:03]
-דה פפרז
-
-Kobi Meirson [12:22]
-גוטה
-מנזה
-גאפו
-
-Ariel Mizrachi [12:36]
-סלטים
-טנדורי
-אורבן פוד
-
-NADAV SCHWARTZ [12:42]
-ג׳אפו
-ליב
-זוזוברה
-
-Dotan Langsam [12:45]
-וונג
-
-NADAV SCHWARTZ [12:54]
-קופי בר
-
-Ayelet Marum [12:57]
-המבורג
-נון
-סלטים
-טנדורי
-שניצל קומפני
-גירף
-סוי
-
-NADAV SCHWARTZ [13:21]
-מזנון
-פוקשופ
-
-Shai Tubul [13:22]
-Nini Hachi just called
-They said that they are late so they will give 15% off for all of the orders
-
-Roni Ashkenazi [13:38]
-ניני האצי!
-
-Kobi Meirson [13:41]
-עדכון מיאשקה: "השליח אוטוטו אצלכם"
-
-Aviv Meital [13:56]
-יאשקה! אבל לא הכל
-
-Milena Matatov [14:05]
-מי שמחפש חמוצים של יאשקה יש באחד השולחנות ב 50
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Vicky Books [12:19]
-גוטה
-אגנס. בתאבון :blush:
-
-NADAV SCHWARTZ [12:27]
-Liv
-
-Keren Simon [12:27]
-דה פפרס
-
-NADAV SCHWARTZ [12:29]
-מידו
-ורזוניקא
-ומא פאו
-
-NADAV SCHWARTZ [12:37]
-מנזה
-דוניא
-סוי
-שף סלט
-מרסלוס
-הרצוג
-
-Keren Simon [12:42]
-פסטה ויה
-ווק אוואי
-התימני
-
-NADAV SCHWARTZ [12:49]
-ניני האצ׳י
-
-NADAV SCHWARTZ [13:04]
-סואי סושי
-יאשקה
-
-NADAV SCHWARTZ [13:13]
-אוליברי
-ג׳ירף
-
-Yoni Trumper [13:13]
-Olivery
-
-NADAV SCHWARTZ [13:13]
-ברדלי
-סאנדיי בראנץ
-
-Ayelet Marum [13:20]
-שניצל קומפני
-שגב
-קופי בר
-מרסלוס
-
-Roni Ashkenazi [13:22]
-אורבן פוד
-ריבר
-
-Tal Levitus Asheri [13:43]
-מי עוד הזמין מהקופי בר?
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Kobi Meirson [10:30]
-If someone missed the winning team of “צרות בהייטק” - a project that automatically orders you lunch in case you forget: https://biss.li
-
-Ron Klein [10:34]
-אוליב בוגרשוב, מישהו? הנחה של 25%
-
-Adi Yaskolka Weiss [11:10]
-מישהו רוצה להזמין ממא פאו?
-
-Roni Ashkenazi [12:21]
-בכור את שושי
-אנגוסרי
-ליב
-טנדורי
-דה פפרז
-מנדה
-גוטה
-ספונטיני
-זה סושי
-
-NADAV SCHWARTZ [12:33]
-ברדלי
-כרמליס
-
-NADAV SCHWARTZ [12:43]
-זוזוברה
-
-Ayelet Marum [12:45]
-קפטן קארי
-אובן קובן
-שףסלט
-
-NADAV SCHWARTZ [12:51]
-לאנטריקוט
-
-NADAV SCHWARTZ [13:00]
-ג׳ירף
-בנדורה
-
-Yotam Bloom [13:02]
-יאשקה?!
-
-Ayelet Marum [13:03]
-מידו
-
-NADAV SCHWARTZ [13:04]
-יאשקה
-
-Ayelet Marum [13:04]
-יאשקה נמצא במטבח
-
-Shai Tubul [13:17]
-סושימן?
-
-Rachel Kamins [13:19]
-נון?
-
-Kobi Meirson [13:24]
-מרסלוס
-
-Ayelet Marum [13:24]
-סושי מן
-ווק אוואי
-וולפנייט
-
-Ariel Mizrachi [13:34]
-סאנדיי בראנץ
-סושי מן
-סלטים
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Irina Afanasyeva [10:49]
-Jars & Bowls someone?
-
-Hila Barak [11:57]
-was added to #tlv-hq-lunch by Tahel Roy, along with Dor Noyman.
-
-Roni Ashkenazi [12:29]
-גוטה
-קופיבר
-סאנדיי בראנץ'
-מנזה
-המבורג
-
-Oded Magger [12:32]
-טנדורי
-גאפו
-סוי
-שף סלט
-ניני האצי
-
-NADAV SCHWARTZ [12:36]
-אורבן פוד
-
-NADAV SCHWARTZ [12:48]
-התימני
-קופי בר
-ליב
-מרסלוס
-מידו
-
-Eti Noked [12:53]
-שניצל קומפני
-
-Oded Magger [13:04]
-גירף
-
-NADAV SCHWARTZ [13:09]
-מאפו
-גירף
-נונונו:scream:
-מוזס
-זוזוברה
-
-Moran Mishan [13:13]
-Jars & Bowls???
-
-Dan Furas [13:16]
-יאשקה?
-
-NADAV SCHWARTZ [13:32]
-יאשקה
-באי
-
-Ariel Mizrachi [13:50]
-zv xuah
-זה סושי
-
-Avigail Berger [14:26]
-ג׳ארז אנד בולס !!!!!
-
-Rachel Kamins [14:28]
-did someone take mine from jars and bowls?
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-NADAV SCHWARTZ [12:06]
-סוי
-ברדלי
-טנדורי
-
-Avishai Lippner [12:10]
-Liv
-
-NADAV SCHWARTZ [12:27]
-גוטה
-
-Ayelet Marum [12:34]
-בכור את שושי
-
-Ayelet Marum [12:49]
-זוזוברה
-מרסלוס
-שף סלט
-שניצל קומפני
-
-NADAV SCHWARTZ [12:50]
-זוזוברה
-
-Ayelet Marum [12:50]
-גוזף אנד סאנס
-אורבן פוד
-וונג
-זה סושי
-גירף
-
-NADAV SCHWARTZ [12:55]
-בכור את שושי
-
-NADAV SCHWARTZ [13:00]
-מנזה
-המבורג
-
-Ayelet Marum [13:09]
-מידו
-
-Yami Glick [13:09]
-מידו
-
-NADAV SCHWARTZ [13:10]
-מידו
-
-Itay Fisher [13:16]
-מידו
-
-Ayelet Marum [13:27]
-ניני האצי
-יאשקה
-גארז אנד בולז
-
-Eti Noked [13:42]
-מישהו ראה שקית של ׳נונונו׳ ?
-
-Eran Hazoum [13:43]
-מישהו לקח שקית של ג׳ארס אנד בולס והיתה בה מנה לא שלו?
-
-Yotam Kadishay [21:09]
-was added to #tlv-hq-lunch by Liron Netzer, along with Doron Goffer.
-
-Daniel Anderson [09:46]
-does anyone else want to order from gonoodle with me>
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Daniel Anderson [10:37]
-can someone please someone order from GoNoodle to my food isn’t canceled.
-https://www.10bis.co.il/next/Restaurants/Menu/Delivery/13255/%D7%92%D7%95%20%D7%A0%D7%95%D7%93%D7%9C%D7%A1
-10bis.co.il
-10bis - תן ביס - משלוחים, מסעדות, משלוחי אוכל ממסעדות, פיק-אפ, כרטיס תן ביס
-10Bis הוא האתר הכי טוב בשבילך להזמין משלוחי אוכל ממסעדות. באתר ניתן למצוא מידע על משלוחים ממגוון מסעדות בכל הארץ, תפריטי משלוחים, ארוחות עסקיות ועוד.
-https://www.10bis.co.il/Content/Images/Restaurant/sushi_cuisine.png?ver=2
-
-NADAV SCHWARTZ [12:24]
-ליב
-דה פפרס
-ג׳וזף אנד סאנס
-פוק שום
-שניצל קומפני
-הרצוג
-דוניא
-טנדורי
-ג׳אפו
-
-NADAV SCHWARTZ [12:38]
-קופי בר
-המבורג
-אורבן
-לאנטריקוט
-ברדלי
-
-Alon Amiel [12:40]
-מישהו יודע אם מזמינים מהקופי בר דרך התן ביס או לא?
-
-Adi Dagan [12:53]
-@
-
-NADAV SCHWARTZ [12:58]
-זוזוברה
-
-Benjamin Figdor [13:00]
-יאשקה (שקית לא מסומנת)
-
-Ariel Mizrachi [13:01]
-ניני האצי
-שף סלט
-ג׳ירף
-
-NADAV SCHWARTZ [13:13]
-ריבר
-
-Ariel Mizrachi [13:17]
-אובן קובן
-
-NADAV SCHWARTZ [13:20]
-יאשקה
-מידו
-ג׳ארס אנד בולס
-
-Shahar Shitrit [13:23]
-מנזה?
-
-Ariel Mizrachi [13:30]
-סלטים
-
-Eti Noked [13:36]
-פינת השלושה @ron.sherf-sadot @shem.magnezi
-
-Ariel Mizrachi [13:38]
-מנזה
-
-Sergey Panchenko [13:40]
-גוטה
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Shoshana Friedman [12:07]
-liv & chef salad
-
-Ayelet Marum [12:17]
-מנזה
-קוקו ריקו
-קופי בר
-ליב
-הירו ראמן
-גו נודלס
-טנדורי
-דה פפרס
-
-Roni Ashkenazi [12:22]
-זה סושי
-
-Ayelet Marum [12:31]
-זוזוברה
-שניצל קומפני
-
-NADAV SCHWARTZ [12:33]
-סאנדי בראנץ
-גו נודלס
-
-Dana Gazanda [12:38]
-was added to #tlv-hq-lunch by Jasmine Esulin.
-
-NADAV SCHWARTZ [12:40]
-ג׳ירף
-
-Ayelet Marum [12:45]
-צופ צופ
-כספי
-סאנדיי בראנץ
-יאשקה
-
-Milena Matatov [12:51]
-וונג
-
-Ayelet Marum [12:55]
-גוטה
-
-Benjamin Figdor [12:57]
-מישהו לקח שקית של שף שלט בטעות?
-
-Omer van Kloeten [13:01]
-מידו
-
-Noa Adamsky [13:19]
-Forgotten
-20190415_131825.jpg
-
-
-Ariel Mizrachi [13:20]
-טנדורי
-קופי בר
-
-Coral Nimrodi [13:38]
-מישהו אולי לקח לי את הגוטה? :cry:
-
-Matias Bielawski [13:40]
-התימני
-
-Ariel Mizrachi [13:47]
-ג׳ארס אנד בולס
-היתמני
-
-Omer Kazir [13:47]
-was added to #tlv-hq-lunch by Kobi Meirson.
-
-NADAV SCHWARTZ [14:24]
-שגב אקספרס
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-NADAV SCHWARTZ [12:10]
-ליב
-בכור את שושי
-גו נודלס
-דה פפרס
-
-NADAV SCHWARTZ [12:19]
-שגב
-
-Benny Sitbon [12:24]
-DM me if you wanna go get food together from downstairs :v: (edited)
-
-NADAV SCHWARTZ [12:24]
-ברדלי
-הרצוג
-וונג
-קופי בר
-
-NADAV SCHWARTZ [12:37]
-סלט נטו
-אורבן
-ג׳ירף
-מוזס
-שניצל קומפני
-גוטה
-סאנדיי בראנץ
-מקסיקני
-
-Dima Kuchin [12:50]
-זוזוברה
-
-Kobi Meirson [13:03]
-מנזה
-
-NADAV SCHWARTZ [13:04]
-ג׳ינה
-
-Shiran Kfir [13:06]
-מישהו לקח אולי סלט בורמזי מזוזוברה?
-
-NADAV SCHWARTZ [13:08]
-שף סלט
-ריבר
-ג׳ארס אנד בולס
-
-Nadav Pozmantir [13:17]
-גאפו
-פוקי
-
-Anna Zeiger [13:24]
-Yashka
-
-Ariel Mizrachi [13:25]
-יאשקה
-
-Yoav Alter [13:56]
-ניני האצ’י
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Roni Ashkenazi [12:14]
-ליב
-מנזה
-
-Roni Ashkenazi [12:43]
-ג'וזף אנד סאנס
-שף סלט
-מא פאו
-מרסלוס
-
-Gal Haramaty [12:53]
-פינת השלושה
-
-Ariel Mizrachi [12:54]
-דה פפרס
-גרז אנד בולז
-ריבר
-ניטאן טאי
-בנקורה
-אורבן פוד
-
-Kobi Meirson [13:09]
-Pokeshop
-הסושיה
-ג׳ירף
-
-Tal Levitus Asheri [13:22]
-מישהו לקח במקרה מהגירף את המנות: צ’אזה וצ׳יראשי?
-
-Ariel Mizrachi [13:22]
-הרצוג
-גוטה
-סושיה
-
-Ariel Mizrachi [13:31]
-יאשקה
-
-Ronit Steinberg [13:58]
-סאנדיי בראנץ׳
-
-NADAV SCHWARTZ [14:08]
-woke away
-
-Daniel Alon [14:15]
-מישהו ראה את המשלוח שהגיע מאושי אושי?
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Roni Ashkenazi [12:00]
-מנזה
-ברווזי
-
-Kobi Meirson [12:26]
-קופי בר
-המטבחון
-גוטה
-
-Ariel Mizrachi [12:27]
-ליב
-ג׳רס אנד בולז
-בכור את שושי
-שף סלט
-
-Ariel Mizrachi [12:32]
-שניצל קומפני
-
-Ariel Mizrachi [12:50]
-ג׳ירף
-לאנטריקוט
-זה סושי
-
-Itai Zaban [12:55]
-זה סושי
-ניני האצי
-לינ
-ריבר
-מנזה
-לאנטריקוט
-ברווזי
-אובן קובן
-מלך העופות
-המובחון
-
-Dima Kuchin [13:58]
-רד מיט
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-NADAV SCHWARTZ [12:32]
-קופי בר
-בראדלי
-דה פפרס
-
-Roni Ashkenazi [12:39]
-וונג
-
-Roni Ashkenazi [12:39]
-מזנון
-
-NADAV SCHWARTZ [12:44]
-לה אנטריקוט
-שמנמונת
-
-NADAV SCHWARTZ [12:51]
-מקסיקנה
-
-Ariel Mizrachi [13:00]
-הרצוג
-המטבחון
-
-Eti Noked [13:10]
-פינת השלושה
-
-Shai Tubul [13:11]
-סושימן?
-
-NADAV SCHWARTZ [13:17]
-הרצוג
-
-Milena Matatov [13:19]
-אובן קובן? גארס אנד בולס?
-
-Shahar Shitrit [13:22]
-Where is `Nini Hachi`???
-
-Asaf Bord [13:26]
-רוטיסרי…?
-קשה היום… :disappointed:
-
-Yosef Ben-David [13:32]
-סושימן
-
-Kobi Meirson [13:35]
-רוטיסרי לא יגיע - השליח החליק עם האופנוע
-(ביקשתי שיבטל את שלי, לא בטוח אם הוא יתקשר לכולם)
-יאשקה
-Wok away
-Noon
-
-NADAV SCHWARTZ [13:39]
-יאשקה!
-
-Yasha Gootkin [13:41]
-ניני האצ'י!
-
-Milena Matatov [13:43]
-אובן קובן
-
-Shoshana Friedman [13:44]
-any insight here about jars and bowls…? they aren’t picking up their phone :scream:
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-NADAV SCHWARTZ [11:57]
-צ׳ופ צ׳ופ
-ברדלי
-
-Ariel Mizrachi [12:20]
-שניצליה
-דה פפרס
-@omri.porat
-
-NADAV SCHWARTZ [12:33]
-שמנמונת
-
-Nimrod Goldberg-Simchovitz [12:39]
-was added to #tlv-hq-lunch by Maayan Dafni Kalinsky.
-
-Shem Magnezi [12:42]
-שגב
-הירו ראמן
-
-NADAV SCHWARTZ [12:51]
-פינת השלושה
-המטבחון
-
-Kobi Meirson [12:52]
-ניני האצי
-טנדורי
-המבורג
-מקס ברנר
-
-NADAV SCHWARTZ [13:13]
-ג׳ירף
-קופי בר
-
-Ron Sherf Sadot [13:14]
-לאנטריקוט
-
-Marina Grechuhin [13:22]
-נון
-
-Alon Amiel [13:32]
-סאנדיי בראנצ'
-
-Gilad Bar [13:35]
-סושימן? :sads:
-
-Kobi Meirson [13:38]
-יאשקה
-גארס אנד בולס
-גוסטו
-
-Ron Tal [13:46]
-מנזה :tippy-sad: ?
-
-Ariel Mizrachi [13:49]
-אינדירה
-
-Kobi Meirson [13:57]
-השדרה 34
-
-Michael Katz [14:15]
-מנזה!!:parrot:
-
-Gilad Bar [14:21]
-@here כל מי שהזמין סושימן, לא יודע מה קורה עם המשלוח אבל זיכו את כל מי שהזמין
-
-Yuval Mendelbaum [14:23]
-DO IT
-Posted using /giphy
-https://media0.giphy.com/media/wi8Ez1mwRcKGI/giphy.gif?cid=6104955e5cbda41b4f6672795979a1c9
-
-Gilad Bar [14:23]
-טוב ביטלו את המשלוח
-
-Jasmine Esulin [14:26]
-Did anyone take a bollibowl from Jars & Bowls by mistake?
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-NADAV SCHWARTZ [11:58]
-השנציליה
-
-Ariel Mizrachi [12:15]
-ביירן מרקט
-דה פפרס
-הירו ראמן
-
-Ariel Mizrachi [12:29]
-מזנון
-
-Ronit Steinberg [12:37]
-ווק אוויי, ניני האצ׳י
-
-Kobi Meirson [12:54]
-Vong
-סאנדיי בראנץ
-פינת השלושה
-ג׳ירף
-דה פפרס
-אובן קובן
-המטבחון
-המבורג
-
-Kobi Meirson [12:57]
-זוזוברה
-
-Emanuel Shurki [13:02]
-@here מי הזמין מהשניצליה היום?
-
-Yoav Codish [13:26]
-מנזה, ג'אבה
-
-Yoav Codish [13:50]
-קפטן קארי לא הגיע? (edited)
-
-Dan Sincai [13:52]
-ניני האצ׳י הגיעו עוד פעם?
-
-Yami Glick [13:59]
-יאשקה
-
-Yoav Codish [14:00]
-קפטן קארי הגיע עכשיו
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Kobi Meirson [12:11]
-קופי בר
-שמנמונת
-Onami
-
-Ariel Mizrachi [12:31]
-טנדורי
-דה פפרס
-הרצוג
-זה סושי
-
-Ariel Mizrachi [12:37]
-סלטים
-
-Ariel Mizrachi [12:48]
-ג׳ירף
-וונג
-זוזוברה
-
-Roni Ashkenazi [12:55]
-ריבר
-
-Roni Ashkenazi [13:01]
-סושימן
-
-Gilad Bar [13:07]
-אצה
-
-Roni Ashkenazi [13:07]
-וואק אווי
-
-Ariel Mizrachi [13:09]
-נון
-פינת השלושה
-מנזה
-
-Ariel Mizrachi [13:18]
-אובן קובן
-
-Elad Mazor [13:23]
-Nini hachi
-
-Doron Goffer [13:28]
-יאשקה
-
-Matias Bielawski [13:36]
-ל'אנטריקוט
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-NADAV SCHWARTZ [12:07]
-מנזה
-
-NADAV SCHWARTZ [12:17]
-ברדלי
-
-NADAV SCHWARTZ [12:30]
-ניני האצ׳י
-המטבחון
-וונג
-שף סלט
-שגב
-פסטה ויה
-זוזוברה
-
-NADAV SCHWARTZ [12:52]
-שניצל קו פוני
-דה פפרס
-ג׳ארס אנד בולס
-אורבן
-גוטה
-ליב
-טנדורי
-
-Yotam Bloom [13:05]
-פינת השלושה?
-
-Keren Ben Arosh [13:22]
-קפטן קארי?
-
-Eti Noked [13:23]
-מרסלוס
-יאשקה
-סאנדיי בראנץ
-
-Roni Ashkenazi [13:24]
-קופיבר
-
-Tomer Gabel [13:41]
-מידו
-
-Avishai Lippner [13:49]
-ג’ירף
-
-NADAV SCHWARTZ [14:00]
-פינת השלושה
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Gilad Bar [10:48]
-@here יש לי קופון של 20% הנחה, אנחנו מזמינים מסואי, אם מישהו רוצה להצטרף למשלוח אז אנחנו סוגרים בקרוב,
-תנו לי הרשאה ב- gilad.bar@wework.com
-ותגידו מה בא לכם (edited)
-
-Ayelet Marum [12:05]
-ליב
-
-Roni Ashkenazi [12:25]
-ג'ירף
-
-Ayelet Marum [12:27]
-גוטה
-דה פפרס
-יאן סושי בר
-גו נודלס נמצא על הבר במטבח
-
-Kobi Meirson [12:49]
-יאשקה
-גוטה
-אונמי
-אובן קובן
-לאנטריקוט
-וונג
-ספונטיני
-זה סושי
-הרצוג
-Taqueria
-מידו
-מרסלוס
-
-Ayelet Marum [13:05]
-@kobi.meirson אתה החיים!!!!
-סוי
-אוליברי
-אושי אושי
-גארז אנד בולז
-כל אלה נמצאים על הבר במטבח
-שגב קונספט
-שניצל קומפני
-
-Isaac Fisher [13:09]
-בנדורה
-
-Maia Cowan [13:11]
-לקחתי קומבינציה של עומר כלשהו מזה סושי
-בקומון אריה בקומה 50 בואו לקחת!
-
-Yotam Bloom [13:17]
-מנזה?
-
-Benny Sitbon [13:19]
-nini hachi :disappointed:? (edited)
-
-Keren Ben Arosh [13:27]
-Pokeshop?
-
-Dor Noyman [13:45]
-@keren.benarosh  Pokeshop הגיע
-
-Eti Noked [13:52]
-המבורג
-
-Benny Sitbon [13:54]
-הרגע קיבלתי הודעה שניני האצ׳י בוטל
-@here
-omg
-trump sad
-Posted using /giphy
-https://media1.giphy.com/media/2Y7vjKwsZ9tpBSuNL4/giphy-downsized.gif?cid=6104955e5cc6d7fb6a414e617397387a&rid=giphy-downsized.gif
-
-Eran Hazoum [14:05]
-וזה ה gif שמצאת מתאים לסיטואציה?
-
-Roni Ashkenazi [14:09]
-ניני האצי
-הגיע
-
-Ron Sherf Sadot [14:11]
-לי לא ביטלו את ההזמנה של ניני האצי :sweat_smile:
-
-Yoni Trumper [14:37]
-הגיע נינה האצ'י גם למבוטלים
-
-Eran Hazoum [14:41]
-trump happy
-Posted using /giphy | GIF by Heute-Show
-https://media0.giphy.com/media/xUOwFVSVwWYrJoFkuk/giphy-downsized.gif?cid=6104955e5cc6e2c35078555536b24f47&rid=giphy-downsized.gif
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Yoav Codish [10:57]
-https://www.10bis.co.il/next/Restaurants/Menu/Delivery/24132/%D7%92%D7%90%D7%A4%D7%95%20
-Japo anyone?
-10bis.co.il
-גאפו  תפריט משלוחים - הזמן משלוח ממסעדת גאפו  | תן ביס
-גאפו משלוחים - תפריט משלוחים מפורט המאפשר הזמנה אונליין מכל כרטיס אשראי! בהזמנת משלוח ממסעדת גאפו תוכלו ליהנות ממגוון הנחות תן ביס. תפריט גאפו להזמנת משלוחים בלחיצת כפתור
-https://www.10bis.co.il/Content/Images/Restaurant/asian_cuisine.jpg
-
-Kobi Meirson [12:26]
-מנזה
-דה פפרס
-גו נודלס
-
-NADAV SCHWARTZ [12:29]
-אובן קובן
-
-Kobi Meirson [12:43]
-ג'ירף
-
-Shiran Asulin Entin [12:44]
-זוזוברה
-
-Tamir Kfir [12:46]
-גוטה
-שניצל קומפני
-ג'ארס אנד בולס
-אונמי
-
-Ayelet Marum [12:53]
-תאתא
-מרקט פיק
-הרצוג
-שגב
-כרמליס
-
-Kobi Meirson [12:55]
-מרסלוס
-מידו
-
-Ayelet Marum [12:58]
-אוליברי
-אינדירה
-מזנון
-גו נודלס
-הרצוג
-ג׳אפו
-מידו
-שניצל קומפני
-
-Keren Ben Arosh [13:03]
-יאשקה? ?
-
-Alon Amiel [13:13]
-קופי בר
-לה אנטריקוט
-
-Yasha Gootkin [13:21]
-רוטיסרי
-
-Ayelet Marum [13:24]
-פריים
-
-Avigail Berger [13:31]
-פינת השלושה
-Nini hachi
-
-NADAV SCHWARTZ [13:31]
-ניני האצ׳י
-
-Avigail Berger [13:35]
-שף סלט !!!!
-יאשקה
-
-Shiran Asulin Entin [13:37]
-@aviv.meital
-
-NADAV SCHWARTZ [13:42]
-אנרגוסר
-אונמי
-הרצוג
-
-Noa Davidovich [10:07]
-If anyone likes to join-
-https://www.10bis.co.il/next/Restaurants/Menu/Delivery/13831/%D7%A7%D7%99%D7%A9%D7%A8%D7%99%D7%94
-10bis.co.il
-קישריה תפריט משלוחים - הזמן משלוח ממסעדת קישריה | תן ביס
-קישריה משלוחים - תפריט משלוחים מפורט המאפשר הזמנה אונליין מכל כרטיס אשראי! בהזמנת משלוח ממסעדת קישריה תוכלו ליהנות ממגוון הנחות תן ביס. תפריט קישריה להזמנת משלוחים בלחיצת כפתור
-https://www.10bis.co.il/Content/Images/Restaurant/coffeeHouse_cuisine.jpg
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Kobi Meirson [12:15]
-Go noodles
-ליב
-
-Amit Zilberberg [12:29]
-מרסלוס
-pasta e via
-ספונטיני
-קופי בר
-דה פפרס
-כרמליס
-
-Amit Zilberberg [12:44]
-טנדורי
-גי׳רף
-ריבר
-גוטה
-
-Kobi Meirson [13:06]
-מנזה
-אורבן פוד
-גוד פוד
-יאשקה
-
-Keren Ben Arosh [13:28]
-אוקינאווה?? (edited)
-
-Keren Ben Arosh [13:38]
-אוקינאווה!! :sushi:
-
-Yuval Mendelbaum [13:42]
-בנדורה
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-NADAV SCHWARTZ [10:51]
-@here
-Hey WeWorkers!
-Thinking about lunch? Angelo Sonnino, an Italian chef, who cooks delicious home-made Italian food will be here, 50th floor, between 11:30am to 1:00pm.  Angelo will offer a variety of dishes for your choice at special prices!
-Have a great day!!
-
-Daniel Boskys [12:15]
-גוטה
-The Peppers
-Breadly
-
-NADAV SCHWARTZ [12:21]
-Japo
-דה פפרס
-ספונטיני
-ניני האצ׳י
-טנדורי
-
-NADAV SCHWARTZ [12:28]
-שף סלט
-גוטה
-קפטן קארי
-
-NADAV SCHWARTZ [12:47]
-ריבר
-קופי בר
-פינת השלושה
-
-Avigail Berger [12:54]
-ליב
-
-Sergey Panchenko [12:55]
-פינת השלושה
-זוזברה
-
-Kobi Meirson [12:59]
-מרסלוס
-
-NADAV SCHWARTZ [12:59]
-לאנטריקוט
-
-Shoshana Friedman [13:05]
-˚segev concept
-
-NADAV SCHWARTZ [13:08]
-יאשקה
-
-Yotam Kadishay [13:11]
-אם מישהוא הזמין נאן ללא גלוטן מטנדורי הוא אצלי :(
-
-NADAV SCHWARTZ [13:18]
-ג׳ארז אנד בולס
-
-Emanuel Shurki [13:26]
-מידו
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-NADAV SCHWARTZ [12:16]
-ליב
-ג׳מילה
-יאשקה
-
-NADAV SCHWARTZ [12:28]
-גוטה
-
-Kobi Meirson [12:29]
-דה פפרס
-Jars and Bowls
-סוי
-בורגר קינג
-
-NADAV SCHWARTZ [12:51]
-קופי בר
-
-Kobi Meirson [12:57]
-מנזה
-אורבן פוד
-מפגש שמש
-כרמליס
-לאנטריקוט
-
-Barak Cohen [13:04]
-ג'אפו
-
-Yuval Mendelbaum [13:08]
-@kobi.meirson אני לא מוצא את אורבן פוד, ראית את זה בקומה 50?
-
-Shoshana Friedman [13:19]
-mido
-
-Sergey Panchenko [13:19]
-וונג
-
-Adi Saranga [13:20]
-גירף
-
-Alon Amiel [13:21]
-נון
-
-Omer Keren [13:59]
-ווק אוואי
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Kobi Meirson [12:22]
-הירו ראמן
-ג׳מילה
-קפטן קארי
-טנדורי
-דה פפרס
-קוקוריקו
-כרמליס (edited)
-
-NADAV SCHWARTZ [12:37]
-גוטה
-ליב
-טנדורי
-שף סלט
-
-Roni Ashkenazi [12:38]
-אוליברי
-
-NADAV SCHWARTZ [12:39]
-קופי בר
-
-Roni Ashkenazi [12:43]
-מוזס
-
-Yasha Gootkin [12:52]
-מא פאו
-
-Kobi Meirson [12:53]
-שגב קונספט
-ניני האצ׳י
-אורבן פוד
-Jars and Bowls
-שניצל קומפני
-
-Sara Hillel [13:02]
-Noon
-
-NADAV SCHWARTZ [13:18]
-ג׳ירף
-
-Omer Keren [13:19]
-סוי
-
-Tomer Gabel [13:27]
-מידו
-
-Michael Katz [13:31]
-Vong
-
-Noa Davidovich [13:57]
-סאנדיי בראנץ
-
-Yuval Foox [15:34]
-was added to #tlv-hq-lunch by Michal Tamir.
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Shoshana Friedman [12:27]
-gute
-
-Omer van Kloeten [12:27]
-טנדורי
-מידו
-ג'וזף אנד סאנס
-ג'ארס אנד בולס
-ליב
-פפרס
-סוי
-
-NADAV SCHWARTZ [12:34]
-הרצוג
-
-Tamir Kfir [12:47]
 פוקי שופ
-אובן קובן
-ג'ירף
-זוזוברה
-בכור את שושי
-
-Yasha Gootkin [12:54]
-המבורג
-
-Kobi Meirson [13:00]
-יאשקה
-ריבר
-ספונטיני
-מנזה
-שניצל קומפני
-שגב קונספט
-קופי בר
-זה סושי
-
-Yosef Ben-David [13:15]
-סושימאן
-
-Roni Ashkenazi [13:17]
+ליב
+Maayan Bakal-CL operations ToHa 12:33
+was added to #tech-toha-lunch by Inbar Poyastro.
+Gaya Chomski (CA at ToHa) 12:40
+טנדורי
+ביירן
+Gaya Chomski (CA at ToHa) 12:48
+מה ומי
+Gaya Chomski (CA at ToHa) 12:55
+עלה
+Dafna Nakash (CA at ToHa) 13:09
+מוזס
+Gaya Chomski (CA at ToHa) 13:16
+פילדלפיה
+Noa Adamsky 13:28
+ניני האצ׳י הגיע?
+Monday, July 8th
+Tomer Gabel 12:00
+was added to #tech-toha-lunch by Talia Nassi. Also, Aviv Oren and Omer Kazir joined.
+Dafna Nakash (CA at ToHa) 12:10
 מרסלוס
+גוטה
+עראיס
+התיימני
+סלטים
+כרמליס בייגל
+המטבחון
+הדס קיצ׳ן
+בירנבאום בר צמחוני
+נייצ׳ר בוייס
+דה פפרס
 קוקוריקו
+בכור את שושי
+ליב
 נון
-
-Daniel Witz [13:39]
-פינת השלושה
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Marina Grechuhin [12:05]
-Liv
-
-NADAV SCHWARTZ [12:08]
-Liv
-סוי
-הירו ראמן
-בורגר קינג?
-
-Kobi Meirson [12:19]
-מקסיקנה
-דה פפרס
-אנגוסרי
-יאשקה
-קופי בר
-
-NADAV SCHWARTZ [12:45]
-גוטה
-מידו
-
-Dotan Langsam [12:59]
-משק ברזילי
-
-Anna Zeiger [13:12]
-זה סושי
-
-Kobi Meirson [13:22]
-מנזה
-מינה טומיי
-
-Keren Simon [13:24]
-ריבר
-
-Matan Banner [13:25]
-המטבח של תומר
-
-Ron Klein [13:26]
-ג'ירף
-טנדורי
-לאנטריקוט
-
-Shoshana Friedman [13:37]
-jars and bowls…??
-
-Adi Zahi [13:42]
-רוטיסרי?
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Roni Ashkenazi [12:05]
-גוטה
-
-NADAV SCHWARTZ [12:10]
-הירו
-סלטים
-קופי בר
-
-NADAV SCHWARTZ [12:31]
-ספונטיני
-ליב
-שף סלט
-דה פפרס
-שגב
-פטרוזיליה
-
-Kobi Meirson [12:43]
 ג׳ירף
-חומוסים
-לאנטריקוט
-פוקה שופ
-מנזה
-ריבר
-זוזוברה
+Shiran Kfir 12:26
+was added to #tech-toha-lunch by Jasmine Esulin.
+Yuval Mendelbaum 12:35
+מישהו לקח גירף של המשרד לאיפשהו? מחפש ציראשי סלמון
+:giraffe_face:
+1
 
-NADAV SCHWARTZ [12:54]
-מרסלוס
 
-NADAV SCHWARTZ [12:59]
-בינו
+1 reply
+2 months agoView thread
+Gaya Chomski (CA at ToHa) 12:40
+גורמה 26
+Gaya Chomski (CA at ToHa) 12:59
+גרקו
+גוטה
+Shahar Shitrit 13:02
+מידו?
+Talia Nassi 13:08
+פוקישופ?
+:sads:
+1
+
+Omer van Kloeten 13:12
 זה סושי
-אורבן
-יאשקה
-
-Yasha Gootkin [13:12]
-מישהו לקח שקית של ריבר?
-
-Rachel Kamins [13:12]
-או סואי?
-
-Omer Keren [13:19]
-סואי הגיע
-
-Shoshana Friedman [13:20]
-mido
-
-Eti Noked [13:23]
-פינת השלושה
-
-Kobi Meirson [13:26]
-המטבחון
-בכור את שושי
-אוליברי
-
-Jasmine Esulin [13:29]
-Wok Away?
-
-Nir Radian [15:43]
-was added to #tlv-hq-lunch by Jasmine Esulin, along with Hadas Cohen.
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Kobi Meirson [12:23]
-ליב
-טנדורי
-שף סלט
-דה פפרס
-גוטה
-סוי
-
-Omer van Kloeten [12:27]
-מנזה
-וונג
-ריבר
-
-NADAV SCHWARTZ [12:44]
-ג׳ירף
-קופי בר
-ג׳אפו
-
-Nofar Navarro Varon [12:52]
-סלטים? :disappointed:
-
-NADAV SCHWARTZ [12:56]
-דה פפרס
-
-Shoshana Friedman [13:05]
-streets
-
-Lior Burg [13:11]
-יאשקה
-
-Omri Shuva [13:34]
-מידו
-
-Anna Zeiger [13:42]
-מרסלוס
-
-Dima Kuchin [13:45]
-אוקינאווה
-
-Jasmine Esulin [13:52]
-Jars & Bowls? :face_with_rolling_eyes:
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Benny Sitbon [10:49]
-chop chop!
-https://www.10bis.co.il/next/Restaurants/Menu/Delivery/12781/%D7%A6%D7%95%D7%A4%20%D7%A6%D7%95%D7%A4
-10bis.co.il
-צופ צופ תפריט משלוחים - הזמן משלוח ממסעדת צופ צופ | תן ביס
-צופ צופ משלוחים - תפריט משלוחים מפורט המאפשר הזמנה אונליין מכל כרטיס אשראי! בהזמנת משלוח ממסעדת צופ צופ תוכלו ליהנות ממגוון הנחות תן ביס. תפריט צופ צופ להזמנת משלוחים בלחיצת כפתור
-https://www.10bis.co.il/Content/Images/Restaurant/asian_cuisine.jpg
-
-NADAV SCHWARTZ [12:22]
-ליב
-גוטה
-טנדורי
-
-NADAV SCHWARTZ [12:38]
-ג׳אפו
-שף סלט
-יאשקה
-דה פפרס
-ספונטיני
-בכור את שושי
-
-NADAV SCHWARTZ [12:38]
-סמטת השלושה
-
-Asaf Bord [12:41]
-ג׳ירף :giraffe_face:
-
-Kobi Meirson [12:51]
-פוקה שופ
-כרמליס
-וונג
-קפטן קארי
-אורבן פוד
-
-Kobi Meirson [13:09]
-בינו
-המטבח של תומר
-ריבר
-Jars & Bowls (במטבחון) (edited)
-
-NADAV SCHWARTZ [13:13]
-קופי בר
-
-Shoshana Friedman [13:19]
-Mido
-
-Nadav Pozmantir [13:22]
-מנזה
-שניצל קומפני
-
-Isaac Fisher [13:41]
-מרסלוס
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Omer van Kloeten [12:11]
-הירו
-גוטה
-
-NADAV SCHWARTZ [12:26]
-ליב
-מקסיקנה
-המטבחון
-
-NADAV SCHWARTZ [12:38]
-שף סלט
-טנדורי
-בכור את שושי
-פוקיז
-דה פפרס
-זוזוברה
-
-NADAV SCHWARTZ [12:47]
-ערוסה
-
-Lior Burg [12:55]
-רוטיסרי
-
-Kobi Meirson [12:58]
-פינת השלושה
-מרסלוס
-
-Rachel Kamins [13:28]
-Anyone else order from segev?
-
-Keren Ben Arosh [13:29]
-סטריטס
-המטבח של תומר
-הרצוג
-ג׳ארס אנד בוולס
-וונג
-מידו
-
-Rotem Keren-Azulay [13:40]
-גי'רף
-
-Keren Ben Arosh [13:55]
-המזנון
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Ron Klein [11:07]
-@here River, anyone?
-
-Asaf Bord [12:22]
-גוטה
-דה פפרס
-ליב
-
-NADAV SCHWARTZ [12:28]
-דה פפרס
-מאפו
-עראיס
-זוזוברה
-
-NADAV SCHWARTZ [12:37]
-מרסלוס
-שניצל קמפוני
-סלטים
-טנדורי
-
-Yaniv Michaelis [12:41]
-vong
-
-NADAV SCHWARTZ [12:42]
-מנזה
-פינת השלושה
-
-Kobi Meirson [12:45]
-Breadly
-הרצוג
+Omer van Kloeten 13:12
 מקסיקנה
 
-NADAV SCHWARTZ [12:47]
-ג׳אפו
-כרמליס
 
-NADAV SCHWARTZ [13:04]
-ג׳ירף
-קופי בר
-נון
+2 replies
+Last reply 2 months agoView thread
+Roy Zinn 13:21
+was added to #tech-toha-lunch by Avigail Berger.
+Gilad Bar:giladvsbrain: 13:22
+פוקישופ
+Shahar Shitrit 13:40
+מידו? :sadpanda:
+:phil:
+1
 
-Daniel Witz [13:11]
-אורבן פוד
+Avigail Berger 13:43
+נשים מבשלות?
 
-Noa Adamsky [13:12]
-שף סלט
 
-Ron Klein [13:15]
-ריבר
+2 replies
+Last reply 2 months agoView thread
+Michael Assouline 15:39
+was added to #tech-toha-lunch by Omer van Kloeten.
+Tuesday, July 9th
+Jasmine Esulin 10:54
+Can someone else plzzzz order from Ginger? Need another 22 shek for minimum :sweat: (edited) 
+:sads:
+1
+:gingerpower:
+1
 
-Yasha Gootkin [13:20]
-יאשקה
+Michal Tamir 11:05
+I ordered @jasmine.esulin
 
-Noam Hamou [13:50]
-רוטיסרי
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-NADAV SCHWARTZ [12:08]
-גוטה
-עראיס
-דה פפרס
-מנזה
-
-NADAV SCHWARTZ [12:17]
-ג׳מליה
-ריבר
-
-Barak Cohen [12:31]
-התימני
-
-Kobi Meirson [12:41]
-אובן קובן
-ליב
-וונג
-זה סושי
-כרמליס
-Wok away
-שף סלט
-יאשקה
-גוסטו
-זוזוברה
-
-Benjamin Figdor [12:47]
-פינת השלושה
-
-Kobi Meirson [12:53]
-מרסלוס
-
-NADAV SCHWARTZ [12:59]
-קופי בר
-
-Gad Sharon [13:15]
-ג'ירף
-
-Yasha Gootkin [13:37]
-מידו
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-NADAV SCHWARTZ [11:54]
-מנזה
-
-NADAV SCHWARTZ [11:54]
-עראיס
-
-NADAV SCHWARTZ [11:54]
-ארומה
-
-NADAV SCHWARTZ [12:01]
-מקסיקנה
-
-Asaf Bord [12:04]
-ליב
-
-NADAV SCHWARTZ [12:12]
-ג׳אפו
-כרמליס
-גוטה
-טנדורי
-דה פפרס
-
-NADAV SCHWARTZ [12:34]
-שף סלט
-
-Rani Loewidt Tzadok [12:34]
-Cofeebar
-
-NADAV SCHWARTZ [12:34]
-קופי בר
-התימני
-
-NADAV SCHWARTZ [12:45]
-זוזוברה
-
-Milena Matatov [12:47]
-אובן קובן
-
-Mor Meles [12:53]
-@danielle.mizrachi
-
-Danielle Mizrachi [12:53]
-was added to #tlv-hq-lunch by Mor Meles. Also, Tal Sabati joined.
-
-Talia Nassi [13:02]
-Ze Sushi
-Herzog
-Marcelos
-
-Noa Adamsky [13:04]
-מנזה
-
-Nir Radian [13:11]
-urban food
-
-Adi Saranga [13:16]
-פקין דאק
-
-Nati Asher [13:20]
-ג׳ארס???
-
-Shahar Shitrit [13:24]
-יאשקה
-
-Keren Ben Arosh [13:35]
-ג׳ארס
-סואי
-ג׳ירף
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Lunch RouletteAPP [10:30]
-Get ready! A lunch roulette is scheduled for Wednesday, May 22nd at 12:30 PM
-Participants (4)
-@benny.sitbon, @dotan.langsam, @yasha.gootkin, @keren.benarosh
-How about telling me about yourself a bit so I can better match you and help you know each other?
-
-NADAV SCHWARTZ [12:13]
-Liv
-עראיס
-כרמליס
-
-Lunch RouletteAPP [12:20]
-Get ready! A lunch roulette is scheduled for Wednesday, May 22nd at 12:30 PM
-Participants (8)
-@benny.sitbon, @rona.tross, @dotan.langsam, @yoni.schamroth, @yasha.gootkin, @keren.benarosh, @omri.shuva, @yuval.foox
-How about telling me about yourself a bit so I can better match you and help you know each other?
-
-Benny Sitbon [12:20]
-@here join the lunch roulette!
-
-Lunch RouletteAPP [12:30]
-Lunch Roulette is ON!
-We have 8 participants in 2 groups
-- @keren.benarosh, @yoni.schamroth, @yasha.gootkin, @omri.shuva
-- @yuval.foox, @dotan.langsam, @rona.tross, @benny.sitbon
-
-Kobi Meirson [12:38]
-יאשקה
-גוטה
-זה סושי
-טנדורי
-דה פפרס
-
-NADAV SCHWARTZ [12:46]
-יאשקה
-קופי בר
-מידו
-
-Kobi Meirson [12:51]
-ג׳ירף
-
-Nir Radian [13:34]
-בנדורה
-
-Nir Radian [13:36]
-אורבן פוד @daniel.witz
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Isaac Fisher [11:07]
-we need one more to https://www.10bis.co.il/next/Restaurants/Menu/Delivery/24132/%D7%92%D7%90%D7%A4%D7%95%20
-10bis.co.il
-גאפו  תפריט משלוחים - הזמן משלוח ממסעדת גאפו  | תן ביס
-גאפו משלוחים - תפריט משלוחים מפורט המאפשר הזמנה אונליין מכל כרטיס אשראי! בהזמנת משלוח ממסעדת גאפו תוכלו ליהנות ממגוון הנחות תן ביס. תפריט גאפו להזמנת משלוחים בלחיצת כפתור
-https://www.10bis.co.il/Content/Images/Restaurant/asian_cuisine.jpg
-
-Yaniv Michaelis [11:07]
-Tenbis coupon: "Happymay" 30% ...
-
-NADAV SCHWARTZ [12:11]
+1 reply
+2 months agoView thread
+Gaya Chomski (CA at ToHa) 12:11
 גוטה
 ארעיס
-סאנדיי בראנץ
-שגב
-קפטן קורי
-חומוס אליהו
-׳ופי בר
-קופי בר
-
-NADAV SCHWARTZ [12:29]
-ג׳מילה
-מנזה
-מידו
-סלטים
-דה פפרס
-ליב
-
-NADAV SCHWARTZ [12:39]
-אורבן פוד
-
-NADAV SCHWARTZ [12:49]
-בכור את שושי
-זה סושי
-ברדלי
-
-Benjamin Figdor [13:05]
-נון
-
-Tamir Kfir [13:05]
-ג'אפו
-הרצוג
-זוזוברה
-
-Benjamin Figdor [13:15]
-שגב (שוב)
-
-Tamir Kfir [13:30]
-אנגוסרי
-
-Yasha Gootkin [13:53]
-ג'ירף
-
-Liron Netzer [14:05]
-@yasha.gootkin
-איפה גירף? זה לא במקום הרגיל
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Roni Ashkenazi [12:02]
-ליב
-עראיס
-
-Barak Cohen [12:42]
-יאשקה
-ג'ו נודלס
-ניתן תאי
-מנזה
-אורבן פוד
-דה פפרס
-ריבר
-גוטה
-קופי בר
-וונג
-טנדורי
-
-Roni Ashkenazi [13:00]
-שניצל קומפני
-
-Roni Ashkenazi [13:13]
-מידו
-
-Milena Matatov [13:22]
-זוזוברה
-
-Itai Zaban [13:23]
-שף סלט
-
-Keren Ben Arosh [13:24]
-ג׳ירף
-Noon
-Jars&bowls
-קפטן קארי
-
-Noa Adamsky [13:48]
-יש פוקישופ במטבח קומה 50 (במקום במדפים בחוץ)
-
-Yoav Codish [13:52]
-בכור את שושי הגיע?
-
-Roni Ashkenazi [14:44]
-מי ומי
-פוקישופ
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Roni Ashkenazi [12:40]
-@lior.livnat
-
-Lior Livnat [12:40]
-was added to #tlv-hq-lunch by Roni Ashkenazi.
-
-Roni Ashkenazi [12:40]
-גוטה
-ליב
-מנזה
-דה פפרס
-טנדורי
-אובן קובן
-
-Roni Ashkenazi [12:51]
-סואי סושח
-
-Ayelet Marum [13:09]
-זה סושי
-עראיס
-קופי בר
-יאשקה
-מרסלוס
-כרמליס
-נון
-סלטים
 גירף
-בראדלי
-שניצל קומפני
-
-Nir Radian [13:13]
-אוקינאווה @keren.benarosh @yotam.kadishay
-
-Itai Zaban [13:20]
+שניצליה
 שף סלט
-
-Shoshana Friedman [13:20]
-mido??
-
-Yasha Gootkin [13:25]
-וולפנייט
-
-Anna Zeiger [13:26]
-מידו
-
-Nadav Pozmantir [13:38]
-ג׳ארס אנד בולס
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Kobi Meirson [12:05]
-עראיס
-
-Nir Radian [12:42]
-הרצוג (בלובי)
-גו נודלס
-גוטה
-ליב
-יאשקה
-קופיבר
-שגב קונספט
+ראמן
+טנדורי
+בכור ושושי
+סלטים הארבעה
+פאפאר
 מקסיקנה
-אובן קובן
-
-Shahar Shitrit [12:46]
-ג'ירף
-
-Keren Ben Arosh [12:50]
-שניצל קומפני
-דה פפרס
-ווקאוואי
-כרמליס בייגלס
-
-Eshed Aviv [13:09]
-גמילה
-
-Ron Klein [13:16]
-@here maybe someone tool my brownbag from LIV?
-
-Mayan Gorelik [13:35]
-המטבח של תומר
-
-Eti Noked [13:48]
-וולפנייט
-
-Ori Goldstein [14:39]
-was added to #tlv-hq-lunch by Lior Baber.
-
-Tal Gurevich [15:20]
-דברים קרו ואכלתי ללימור את הצ׳ירשי סלמון במקום הצ׳ירשי הטבעוני. מי רוצה את הצ׳יראשי הטבעוני שלי?
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-On Freund [10:40]
-מרסלוס מישהו?
-
-Rotem Haber [12:03]
-עראיס
-דה פפרס
-
-Roni Ashkenazi [12:07]
-טנדורי
-
-Roni Ashkenazi [12:22]
-גוטה
-
-Rotem Haber [12:22]
-Liv
-Coffeebar
-התימני
-ברדלי
-בורגרים
-שניצל קמפני
-טריפוליטאית
-
-Omer van Kloeten [12:43]
-המטבחון
-אורבן פוד
-כרמליס
-ג'ירף
-סוי
-יאשקה
-בכור את שושי
-זה סושי
-שף סלט
-ג'מילה
-
-Omer van Kloeten [12:49]
+פוקי שופ
+אירו ראמן
+Gaya Chomski (CA at ToHa) 12:21
+צופצופ
 מנזה
-
-Omer van Kloeten [12:50]
-פיצהלה (edited)
-
-Noy Arie [13:21]
-מידו
-
-Anna Zeiger [13:25]
-בנדורה
-ספונטיני
-ווק ריפבליק
-ג׳ארז אנד בולז
-
-Anna Zeiger [13:32]
-מרסלוס
-
-Dima Kuchin [13:38]
-אוקינאווה
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Irina Afanasyeva [10:54]
-מקום להמבורגר מומלץ?
-
-Barak Cohen [12:16]
-גוטה
-עראיס
-
-Gilad Bar [12:33]
-פינת השלושה
-שניצל קומפני (edited)
-נאו סושי
-
-Gilad Bar [12:34]
-וזהו בינתיים חברים
-
-Gilad Bar [12:35]
-Poke
-
-Tamir Kfir [12:47]
-זוזוברה
-מקסיקנה
-ניני האצ'י
-הירו ראמן
-דה פפרס
-סוי
-זה סושי
-מוצ'ה
-
-Daniel Witz [12:56]
-ליב
-
-Ron Sherf Sadot [13:16]
-מינה טומיי
-
-Tal Gurevich [13:18]
-marissa tomey
-Posted using /giphy
-https://media2.giphy.com/media/lENk1dx0WM2l2/giphy-downsized.gif?cid=6104955e5cefae096f4e71684dcd4c55&rid=giphy-downsized.gif
-
-Eran Hazoum [13:23]
-Wok away @alexander.sheikhat
-
-Matan Banner [13:31]
-מטבח של תומר
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Lunch RouletteAPP [10:53]
-Get ready! A lunch roulette is scheduled for Sunday, June 2nd at 12:00 PM
-Participants (5)
-@dotan.langsam, @roni.ashkenazi, @tal.weissler, @yuval.foox, @albert.kimyagarov
-How about telling me about yourself a bit so I can better match you and help you know each other?
-
-Roni Ashkenazi [10:55]
-@here Hi everyone, this is a reminder for the cooking Mama's lunch roulette! :slightly_smiling_face: You don't have to order food, join our Roulette!
-
-Lunch RouletteAPP [11:50]
-Get ready! A lunch roulette is scheduled for Sunday, June 2nd at 12:00 PM
-Participants (6)
-@dotan.langsam, @roni.ashkenazi, @tal.weissler, @sara.hillel, @yuval.foox, @albert.kimyagarov
-How about telling me about yourself a bit so I can better match you and help you know each other?
-
-Lunch RouletteAPP [12:00]
-Lunch Roulette is ON!
-We have 6 participants in 2 groups
-- @roni.ashkenazi, @sara.hillel, @albert.kimyagarov
-- @dotan.langsam, @yuval.foox, @tal.weissler
-
-Lior Livnat [12:11]
-גוטה
-טנדורי
-ליב
-עראיס
-
-Or Peretz [12:24]
-anyone wants jars and bowls?
-
-Michael Katz [13:21]
-Japo
-River
-Giraffe
-Mido
-Chef salad
-Yashka
-
-Ariel Mizrachi [09:22]
-@tal.huberman
-
-Tal Huberman [09:24]
-was added to #tlv-hq-lunch by Ariel Mizrachi.
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Tamir Kfir [12:18]
-גוטה
-ליב
-עראיס
-
-Roni Ashkenazi [12:31]
-פסטה ויה
-
-Nir Radian [13:08]
-דה פפרז
-מידו
-
-Yasha Gootkin [13:08]
-סוי
-
-Yotam Bloom [13:10]
-וולפנייטס?
-
-Shlomi Dagan [13:17]
-ג'ירף
-
-Keren Ben Arosh [13:26]
-ג׳ארס
-וונג
-טנדורי
-וולפנייטס
-שף סלט
-יאשקה
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Eran Hazoum [12:14]
-עראיס
-השניצליה
-ליב
-
-Roni Ashkenazi [12:28]
-עראיס
-
-Roni Ashkenazi [12:36]
-יאשקה
-בנדורה
-
-Ariel Mizrachi [13:21]
-ג׳מילה
-מנזה
-קופי בר
-נון
-סלטים
-נאו סושי בר
-
-Yotam Kadishay [13:27]
-ZE Sushi
-
-Roni Ashkenazi [09:32]
-@yohai.taran
-
-Yohai Taran [09:32]
-was added to #tlv-hq-lunch by Roni Ashkenazi.
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Kobi Meirson [11:59]
-עראיס
-מנזה
-פקה-פקה
-הירו ראמן
-
-Dotan Langsam [12:47]
-מי לקח את השקית של בראדלי? יש מצב שהרוטב של הסלט שלי אצלך?
-
-Roni Ashkenazi [12:48]
-השומר 1?
-
-Ron Sherf Sadot [12:49]
-שגב קונספט
-
-Ronit Steinberg [12:52]
-דה פפרס אמסטרדם
-
-Benjamin Figdor [13:03]
-מידו
-
-Michal Tamir [13:14]
-המטבח של תומר
-
-Alon Amiel [13:18]
-ג׳ירף??
-
-Rotem Keren-Azulay [13:34]
-הגיע
-
-Kobi Meirson [13:56]
-Aviv Oren
-יש קופון של 30% לכל הזמנה בתן ביס
-HAPPYJUNE
-Posted in #tech-tlv-random | Jun 5th | View message
-
-Anna Zeiger [14:05]
-מרסלוס
-
-Tal Sabbah [09:21]
-was added to #tlv-hq-lunch by NADAV SCHWARTZ.
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-NADAV SCHWARTZ [12:33]
-קופי בר
-זוזוברה
-יאשקה
-שניצל קומפוני
-גוטה
-ליב
-שף סלט
-דה פפרס
-כרמליס
-
-Dan Furas [12:47]
-מרסלוס?
-:flushed:
-
-NADAV SCHWARTZ [12:54]
-המטבח של איריב
-איריס
-ג׳מילה
-ריבר
-
-Keren Ben Arosh [12:59]
-דוניא
-מנזה
-
-Lior Livnat [13:02]
-ג׳ארס אנד בולז
-נון
-
-NADAV SCHWARTZ [13:06]
-צפרה
-
-Lior Livnat [13:06]
-ג׳ירף
-
-Anna Zeiger [13:14]
-מרסלוס???
-
-Ronit Steinberg [13:22]
-ווק אוויי
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Dotan Shaked [12:06]
-was added to #tlv-hq-lunch by Adi Yaskolka Weiss.
-
-Avigail Berger [12:31]
-ליב
-הרצוג
-אראיס
-דה פפרס
-ג׳וזף
-זה סושי
-יאשקה
-
-Gal Haramaty [12:44]
-טנדורי
-סוי
-ווק
-מקסיקנה
-שף סלט
-וונג
-גירף
-
-Daniella Lambiase [12:53]
-nina hachi
-
-Michael Katz [13:01]
-מא פאו / ma pau
-
-Nir Radian [13:03]
-גוטה
-
-Anna Zeiger [13:10]
-מרסלוס?
-המבורג
-Pokeshop
-אורבן
-
-Daniel Witz [13:19]
-מנזה?
-
-Adi Zahi [13:21]
-באליבר?
-
-Keren Ben Arosh [13:24]
-השומר?
-
-Daniel Witz [13:30]
-מנזה
-פיתה בסטה
-וולפנייט
-מרסלוס
-
-Keren Ben Arosh [13:37]
-השומר
-
-Hagai Levin [13:40]
-Jars and bowls
-
-Irina Afanasyeva [15:24]
-@here מישהו לקח את השקית עם Jars and Bowls?
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Marina Grechuhin [12:21]
-Liv
-גוטה
-
-Milena Matatov [12:46]
-ג'אפו
-
-Gal Haramaty [12:47]
-הרצוג
-סוי
-סאנדיי בראנץ
-מנזה
-דה פפרס
-
-Gal Haramaty [12:57]
-קופי בר
-ווק אווי
-
-Hadas Cohen [13:24]
-מידו
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Michael Katz [12:23]
-גוטה
-ליב
-הירו ראמן
-שניצליין
-שניצל קומפני
-סוי
-Pepper
-
-Avishai Lippner [13:09]
-Wokaway
-
-Nadav Pozmantir [13:09]
-Ze sushi
-
-Talia Nassi [13:11]
-Pokeshop
-
-Gilad Bar [13:11]
-River
-
-Dima Kuchin [13:23]
-Sui
-
-Noa Davidovich [13:35]
-מישהו לקח את השקית של סואי?
-
-Gilad Bar [13:35]
-מרסלוס
-
-Keren Ben Arosh [14:00]
-Yashka
-Coffee Bar
-Giraffe
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-NADAV SCHWARTZ [11:49]
-@here Hey WeWorkers, Angelo is waiting for you with delicious Italian food, now at the 34th floor lounge.
-
-Kobi Meirson [12:16]
-עראיס
-ליב
-קוקוריקו
-גוטה
-
-Omer van Kloeten [12:23]
-בנדורה
-בכור את שושי
-
-Talia Nassi [12:34]
-סוי
-מרסלוס
-שף סלט
-
-Omer van Kloeten [12:40]
-בישולים במרומים
-
-Avigail Berger [12:41]
+noon
+Kobi Meirson 12:37
+ניני האצ׳י
+פילדלפיה
+Tsachi Shuval 12:59
+מישהו לקח שקית של סוי ניטן תאי?
+
+1 reply
+2 months agoView thread
+Gilad Bar:giladvsbrain: 13:22
 זהסושי
+Tsachi Shuval 13:23
+סוי ניטן תאי
 
-Omer van Kloeten [12:41]
-מא פאו
-
-Yuval Mendelbaum [12:44]
-@omer.vankloeten איפה ראית את בנדורה?
-
-Omer van Kloeten [13:00]
-יאשקה
-
-Nadav Pozmantir [13:20]
-דה פפרס
-
-Ron Sherf Sadot [13:40]
-@guy.alush NINI HACHI
-
-Rony Langbord [13:49]
-ג׳ירף
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Kobi Meirson [12:26]
-בנדורה
-דה פפרס
-סוי
-ליב
-עראיס
-הרצוג
-
-Gal Haramaty [13:09]
-גירף
+1 reply
+2 months agoView thread
+Maayan Bakal-CL operations ToHa 14:18
+ריבר
+Yair Horovitz 14:41
+was added to #tech-toha-lunch by Kobi Meirson.
+Wednesday, July 10th
+Coral Shemesh (CL at ToHa) 11:40
+חומוס אליהו
 גוטה
-שף סלט
-עוף רוטיסרי
-יאשקה
-
-Jasmine Esulin [13:42]
-:rice: האם מישהו לקח את הג׳אפו שלי בטעות?
-
-Michal Tamir [13:42]
-מידו
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Yigal Gvili [12:43]
-was added to #tlv-hq-lunch by Harel Shein.
-
-Irina Afanasyeva [13:11]
-@marina.ulanovsky
-
-Marina Ulanovsky [13:11]
-was added to #tlv-hq-lunch by Irina Afanasyeva.
-
-Tal Sabati [13:15]
-Noon
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Kobi Meirson [12:32]
-גוטה
-ליב
-קוקוריקו
-סוי
-מנזה
-
-Lior Livnat [12:32]
-@maya.gershon
-
-Maya Gershon [12:33]
-was added to #tlv-hq-lunch by Lior Livnat.
-
-Dor Noyman [13:03]
-יאשקה
-
-Tal Levitus Asheri [14:12]
-@here מי לקח עכשיו שקית של ליב בטעות?
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Talia Nassi [12:37]
-דוניא
+Kobi Meirson 11:49
 עראיס
-מקסיקנה
-הרצוג
-גוטה
-Jars and bowls
-זוזוברה
-סוי
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Daniel Boskys [11:32]
-If somebody forgot to order, Italian chef today at 34th floor :italian_chef:
-
-Ron Tal [12:47]
-עראיס
-הרצוג
-שף סלט
-יאשקה
-ליב
-צ׳ופצ׳ופ
-גוטה
-סוי
-בראדלי
-פפרס
-זוזוברה
-
-Anna Zeiger [13:40]
-מרסלוס
-
-Dan Furas [16:36]
-Image from iOS
-
-Sales happy hour
-
-Roni Ashkenazi [08:55]
-@dorin.segal
-
-Dorin Segal Atias [08:55]
-was added to #tlv-hq-lunch by Roni Ashkenazi.
-
-Roni Ashkenazi [08:56]
-@itay.dahan
-
-Itay Dahan [08:56]
-was added to #tlv-hq-lunch by Roni Ashkenazi.
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Kobi Meirson [12:23]
-עראיס
-ליב
-זה סושי
-פפר
-
-Michael Katz [12:36]
-ניני האצ'י
-וונג
+Dafna Nakash (CA at ToHa) 12:10
+ריבר
 דה פפרס אמסטרדם
-יאשקה
-ג'וזף אנד סאנס
-זוזוברה
-קוםי בר
-קופי*
-
-Lior Livnat [12:52]
-גוטה
-שניצל קומפני
-ברדלי
-אורבן פוד
-
-Alon Amiel [13:03]
-מידו?
-
-Sara Hillel [13:06]
-Mido
-Noon
-
-Noy Arie [13:12]
+מרקט פיש
 מרסלוס
+ארעיס
+פסטה ויה
+ג׳מילה
+המטבחון
+Gaya Chomski (CA at ToHa) 12:14
+מקסיקנה
+זוזברה
+ניני האצי
+Gaya Chomski (CA at ToHa) 12:25
+פסטה מיה
+מרקט פיק
+קוקוריקו
+הרצוג
+Coral Shemesh (CL at ToHa) 12:29
+התימני
 נון
-בנדורה
-סלטים
-
-Nofar Navarro Varon [13:17]
-מנזה?
-
-Yasha Gootkin [13:18]
+Coral Shemesh (CL at ToHa) 12:37
+שף סלט
+Tal Levitus Asheri 12:38
+@here היי,
+כל מי שהזמין לאחר השעה 19:00 אוכל לתוה״א- שישלח לי מייל מסודר עם הפרטים ואדאג לזיכוי כרטיס התן ביס שלו, הנושא בטיפול ובימים הקרובים תוכלו להזמין לאחר 19:00 ולהזדכות אוטומטית.
+תודה :pray::skin-tone-3:
+Gaya Chomski (CA at ToHa) 12:42
+טאקריה
+Alon Amiel 12:46
 ג'ארס
 
-Ron Sherf Sadot [13:19]
-ריבר?
 
-Keren Ben Arosh [13:30]
-המטבח של תומר
-
-Keren Ben Arosh [13:32]
-מנזה
-
-Yoav Codish [13:40]
-קפטן קארי @sagiv.frankel
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Roni Ashkenazi [12:24]
-מא פאו
-
-Albert Kimyagarov [12:41]
-תאתא
-ליב
-גוטה
-
-Rotem Haber [12:42]
-הרצוג
-ניני הצ׳י
-אינדירה
+2 replies
+Last reply 2 months agoView thread
+Dana Gazanda 12:49
+was added to #tech-toha-lunch by Jasmine Esulin.
+Coral Shemesh (CL at ToHa) 12:52
+הניס
+מוזס
+Dafna Nakash (CA at ToHa) 12:53
 טנדורי
-אוליברי
-ניטן סוי
-קופיבר
-תאתא
-עראיס
-דה פפרס
-המטבחון
-מוצה נמצא על הבר
+Itai Mohaban 13:00
+סושימן?
+Sivan Sagi 13:00
+גירף?
 
-Alexander Berezovsky [12:47]
-יאשקה
-
-Efrat Gavra [12:49]
-was added to #tlv-hq-lunch by Lior Livnat.
-
-Rotem Regev [13:02]
-גוטה
-
-Daniel Bollag [13:05]
-@sivan.sagi
-
-Sivan Sagi [13:05]
-was added to #tlv-hq-lunch by Daniel Bollag.
-
-Dima Kuchin [13:19]
-פוקישופ
-ג'ירף
-(בצד השני)
-
-Sara Hillel [07:53]
-@tsachi.shuval
-
-Tsachi Shuval [07:53]
-was added to #tlv-hq-lunch by Sara Hillel.
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Lior Livnat [11:53]
-Arais
-
-Marina Grechuhin [12:30]
-גוטה
+1 reply
+2 months agoView thread
+Gaya Chomski (CA at ToHa) 13:10
+סושי מן עכשיו
+גירף הגיע
+Thursday, July 11th
+Rotem Keren-Azulay 11:47
+was added to #tech-toha-lunch by Alon Amiel.
+Dafna Nakash (CA at ToHa) 11:52
 מנזה
-פפרס
-
-Marina Ulanovsky [12:38]
-שניצל קומפני
-
-Alon Amiel [12:38]
-nithan thai
-
-Kobi Meirson [12:41]
-אובן קובן
-הרצוג
-
-Yotam Bloom [12:56]
-אוקינאווה
-זה סושי
-ליב
-טנדורי
-
-Marina Ulanovsky [13:01]
-ג׳ארס אנד בולז
+גוטה
+האריס שרונה
+סלטים
+הירו ראמן
+פפר
+Dafna Nakash (CA at ToHa) 12:13
 מרסלוס
-
-Daniel Witz [13:04]
-שגב
-בכור את שושי
-קופי בר
-לה פפריקה
-סאנדיי בראנץ
-
-Daniel Witz [13:31]
-יאשקה
-סלטים @hagai.levin
-צ'קר
-
-Avigail Berger [13:39]
-אני בצ׳ט עם תן ביס לגבי שף סלט...
-
-Frayda Leibtag [13:40]
-השליח היה בתאונה עם משאית.
-
-Adi Saranga [13:42]
-@yotam.bloom טקסס הגיע
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Kobi Meirson [12:25]
-מרקט פיק & מיקס
-עראיס
-דה פפרס
-ליב
-אפונופונונופופו
-
-Kobi Meirson [12:25]
-קופי בר
-ריבר
-סוי
-קוקוריקו
-
-Yasha Gootkin [13:04]
+Eden Nachman 12:37
+השדרה 34
 זוזוברה
+קוקוריקרו
+פפריקה
+ביג מאמא
+noon
+גי׳רף
+אליבר
+מקסיקנה
+בורגר קינג
+:mindblown:
+2
 
-Avishai Lippner [13:04]
-ג’ירף??
+Roman Olshanskiy 12:49
+was added to #tech-toha-lunch by Omer Kampf.
+Eden Nachman 12:51
+sui
+גרקו
+מאמאלה
+סלטים
+אנטריקוט
+Eden Nachman 13:07
+ניני האצי
+Yigal Gvili 13:18
+מישהו לקח שף סלט לא שלו במקרה?
+Sunday, July 14th
+Gaya Chomski (CA at ToHa) 11:47
+מקסיקנה
+גוטה
+בכור ושושי
+מרסלוס
+ערייס
+צופצופ
+Gaya Chomski (CA at ToHa) 12:03
+דה פפרס
+Gaya Chomski (CA at ToHa) 12:09
+מנזה
+noon
+Or Goren 12:14
+was added to #tech-toha-lunch by Gilad Bar.
+Gaya Chomski (CA at ToHa) 12:20
+הרצוג
+הינדירה
+גירף
+פסטה ויה
+סנדיבראנץ
+ליב
+Tsachi Shuval 12:37
+מידו
+Coral Shemesh (CL at ToHa) 12:54
+פסטה ויה
+נון
+כרמליס
+Shem Magnezi 14:10
+מישהו לקח את המנה שלי ממרסלוס? =(
+@here ^
+Ron Klein 14:16
+what does marsellus (wallace) look like
+:10000:
+2
 
-Rachel Kamins [13:05]
-Did anyone see Herzog?
 
-Shoshana Friedman [13:07]
+
+
+3 replies
+Last reply 1 month agoView thread
+Monday, July 15th
+Kobi Meirson 11:52
+עראיס
+:classic:
+2
+
+Gaya Chomski (CA at ToHa) 12:02
+זוזברה
+מנזה
+גוטה
+אושיאושי
+סלטים הארבעה
+פוקי
+Pasta via
+גירף
+ניתן סוי
+ניטן
+Gaya Chomski (CA at ToHa) 12:14
+ארעיס
+noon
+Dolev Oz 12:36
+was added to #tech-toha-lunch by Jasmine Esulin, along with 4 others.
+Gaya Chomski (CA at ToHa) 12:44
+קפנף
+אנטריקוט
+Zach Cohen 12:46
+ג׳מילה
+התימני
+Harel Shein:palm_tree: 12:51
+מידו
+Yigal Gvili 13:20
+Jars and bowls
+Tuesday, July 16th
+Gaya Chomski (CA at ToHa) 11:29
+חומוס הבוטקה
+Gaya Chomski (CA at ToHa) 12:11
+גוטה
+עראיס שרונה
+Mor Biran 12:24
+was added to #tech-toha-lunch by Noam Hamou.
+Lior Gantz (CL at ToHa) 12:40
+מנזה
+טנדורי
+ביירן מרקט
+נון
+התימני
+פורקי
+יאשקה
+גרקו
+סוי
+כרמליסבייגלס
+פוקישופ
+מקסיקנה
+וולפנייטס
+מרסלוס
+אמורה מיו
+גומבה
+Keren Ben Arosh 13:09
+ניני האצ׳י
+Yigal Gvili 13:11
+שף סלט
+Yuval Mendelbaum 13:11
+מישהו לקח את מקסיקנה?
+Yotam Bloom 13:14
+צ׳ופ צ׳ופ?
+Omer Kazir 13:15
+מישהו לקח פוקישופ?
+Wednesday, July 17th
+Gaya Chomski (CA at ToHa) 12:02
+מרסלוס
+גוטה
+קפהקפה
+השדרה
+מינה טומי
+ריבר
+וונג
+סוי רמת גן
+Gaya Chomski (CA at ToHa) 12:25
+noon
+סלטים
+המטבחון
+סלטים
+טנדורי
+עראיס
+Gilad Bar:giladvsbrain: 12:26
+Jars & bowls?
+Gaya Chomski (CA at ToHa) 12:43
+מקסיקנה
+Shahar Shitrit 12:44
 מידו?
 
-Noam Hamou [13:09]
-מנזה @barak.cohen
-
-Benny Sitbon [13:09]
+1 reply
+1 month agoView thread
+Eden Nachman 12:51
+אושי אושי
+ליב
+אורבן פוד
+Gaya Chomski (CA at ToHa) 12:57
+גורמה 26
+פוקי שופ
+פינת השלושה
+Coral Shemesh (CL at ToHa) 13:12
+ג׳רס אנד בולס
+Noaa Ilani 13:12
+nini hachi?
+Gaya Chomski (CA at ToHa) 13:14
 גרקו
-יעשקה
+שמש
+Shahar Shitrit 13:15
+מידו?
+Gilad Bar:giladvsbrain: 13:15
+ג׳ארס
+Coral Shemesh (CL at ToHa) 13:16
+מידו הגיע
+Noam Ossia 13:19
+וונג?
+
+2 replies
+Last reply 1 month agoView thread
+Yair Horovitz 13:22
+תאתא?
+Noaa Ilani 13:24
+Nini hatchi
+jamilla
+Yair Horovitz 14:17
+תאתא הגיע
+Thursday, July 18th
+Dafna Nakash (CA at ToHa) 12:16
+גוטה
+מקסיקנה
+קפטן קארי
+האריס שרונה
+הטריפוליטאי
+פוקי
+סוי
+מנזה
+התימני
+ג׳ירף
+מרסלוס
 הרצוג
+סלטים
+Dafna Nakash (CA at ToHa) 12:29
+השדרה 34
+הגריל הלוהט
+המזנון
+Tsachi Shuval 12:56
+מידו
+Rotem Keren-Azulay 13:17
+ניני האצי
+Ron Klein 18:37
+Lol
+IMAG4040.jpg 
+IMAG4040.jpg
 
-Gilad Bar [13:11]
-replied to a thread:
-מרקט פיק & מיקס…
-OMG so good!! and cheap. but good.View newer replies
 
-Noam Hamou [13:19]
-ג'ירף!!!
+:troll:
+6
+:joy:
+1
 
-Keren Ben Arosh [13:41]
-מזנון?
+Sunday, July 21st
+Gaya Chomski (CA at ToHa) 11:53
+גוטה
+מרסלוס
+פוקי
+מקסיקנה
+Gaya Chomski (CA at ToHa) 12:08
+סיו רמתגן
+עראיס
+סלטים
+הירו ראמן
+בכור ושושי
+ריבר
+תחנת לחם
+ווק אווי אבן
+המטבחון
+דה פפרס
+שך סלט
+Ori Goldstein 12:40
+התימני
+Yigal Gvili 12:42
+ליב
+Tsachi Shuval 12:59
+Mido
+Gaya Chomski (CA at ToHa) 13:05
+גירף
+גוטה
+טנדורי
+liv
+מינדו
+סאנדי בראנץ
+מנזה
+ניני האצי
+גמילה
+Gaya Chomski (CA at ToHa) 13:13
+שגב קונספט
+Gaya Chomski (CA at ToHa) 13:18
+קופיבר
+Monday, July 22nd
+Gaya Chomski (CA at ToHa) 11:46
+סלטים
+שושי ובכור
+עראיס
+Gaya Chomski (CA at ToHa) 11:57
+פפר
+התמני
+מרסלוס
+גוטה
+Gaya Chomski (CA at ToHa) 12:10
+ריבר
+noon
+השניצליה
+וולפניט
+Gaya Chomski (CA at ToHa) 12:28
+nexhebv
+מקסיקנה
+פינת השלושה
+טנדורי
+Gaya Chomski (CA at ToHa) 12:39
+liv
+זוזברה
+Tomer Gabel 12:45
+המטבחון
+עלה
+Rotem Keren-Azulay 12:52
+גארס אנד בולס הגיע ?
+Keren Ben Arosh 12:53
+הופונופונו
 
-Sergey Panchenko [13:45]
-המטבח של תומר
-טקסס ברביקיו
+3 replies
+Last reply 1 month agoView thread
+Shem Magnezi 13:08
+ניני האצי
+Tsachi Shuval 13:22
+מידו
+Or Peretz 13:22
+מישהו במקרה לקח לי את הגארז אנד בולז?
 
-Slackbot [10:20]
-Reminder: Order your food.
 
-Dotan Langsam [11:05]
-we need one more for Japo
-צריכים עוד אחד לג׳אפו
+4 replies
+Last reply 1 month agoView thread
+Shachar Albilia 15:52
+was added to #tech-toha-lunch by Yotam Kadishay. Also, Shai Volvovsky and Liat Vanir joined.
+Tuesday, July 23rd
+Nimrod Goldberg-Simchovitz 12:07
+@shoshana.friedman
+Shoshana Friedman 12:07
+was added to #tech-toha-lunch by Nimrod Goldberg-Simchovitz.
+:stitch-wave:
+1
 
-Be a friend
-תהיו חברים
+Gaya Chomski (CA at ToHa) 12:11
+גוטה
+וולפניט
+סלטים
+מקסיקנה
+אולורי
+טנדורי
+noon
+מרסלוס
+השניצליה
+Gaya Chomski (CA at ToHa) 12:24
+עראיס
+מזנון
+התימני
+שמש
+רייבר
+Gaya Chomski (CA at ToHa) 12:51
+גרקו
+פוקי
+Omer Kazir 12:55
+מישהו לקח פוקי לא נכון?
+Gaya Chomski (CA at ToHa) 13:08
+ניני יאצי
+זה סושי
+Gaya Chomski (CA at ToHa) 13:16
+תאתא
+Wednesday, July 24th
+Tal Levitus Asheri 11:39
+@here Hey guys, we are working to make the ToHa address the default on your 10bis accounts. In the meantime, please make sure to change the address to ToHa before ordering food.
+Thanks
+Gaya Chomski (CA at ToHa) 11:55
+גוטה
+ריבר
+Gaya Chomski (CA at ToHa) 12:04
+מרסלוס
+גירף
+עראיס
+קפה נפולי
+המטבחון
+גרקו
+בכור
+סיו
+טנדורי
+הרצוג
+מנזה
+Inbar Poyastro 12:27
+אינדישוק
+משק ברזילי
+גארס אנד בול
+פקפק
+ביירן מרקט
+ניני האצי
+התימני
+פיצה פיצה
+Gaya Chomski (CA at ToHa) 12:37
+liv
+השדרה 34
+מידו
+Yotam Kadishay 18:53
+Want to know when your lunch will arrive in ToHa?
+Still not big data to base the numbers on, but this will give you a reasonable ballpark:
+https://docs.google.com/spreadsheets/d/1Pm2e90bBcLyiqUZtGATxIQ-YJuHzn2CTzHhwvMB_YqY/edit?usp=sharing
 
-Keren Ben Arosh [12:26]
+GSuite Spreadsheet 
+Average Delivery Time - ToHa
+Spreadsheet from Google DriveClick to open in Google Drive
+
+
+:clapping-8320:
+1
+
+Thursday, July 25th
+Dafna Nakash (CA at ToHa) 12:20
+התימני
+ריבר
+נונ
+גוטא
+מרסלו
+מרסלוס
+מקסיקנה
+דודי בן יודא
+טנדורי
+פפר
+אינדירה
+פוקי
+סלטים
+רוטיסרי
+ג׳ארס אנד בולס
+מאפאן החשמונאים
+המטבחון
+גואטה
+Yuval Mendelbaum 13:30
+מישהו לקח את מקסיקנה?
+הכל טוב, אזעקת שווא
+Sunday, July 28th
+Inbar Poyastro 12:05
+מרסלוס
+מידו
+מקסיקנה
+אראיס
+פטרוזיליה
+גוטה
+קאן סאי
+קפטן קארי
+גוטה
+Inbar Poyastro 12:20
+ריבר
+נון
+Ayelet Marum 12:37
+@irina.afanasyeva @marina.ulanovsky
+Irina Afanasyeva 12:37
+was added to #tech-toha-lunch by Ayelet Marum, along with Marina Ulanovsky.
+Inbar Poyastro 12:45
+ג׳מילה
+גארס אנד בולס
+ווק אווי
+גירף
+חומוס הכרם
+פסטה אנד ויה
+ניני האצי
+פינת השלושה
+Alon Amiel 13:21
+דה פפרס?
+Yuval Mendelbaum 13:23
+הגיע לפני שנים
+Alon Amiel 13:32
+מישהו אולי לקח בטעות את הסלט שלי מדה פפרס?
+Monday, July 29th
+Gaya Chomski (CA at ToHa) 11:46
+מרסלוס
+עראיס
+Inbar Poyastro 11:56
+זוזוברה
+Inbar Poyastro 12:02
+נון
+Gaya Chomski (CA at ToHa) 12:10
+צופצופ
+מקסיקנה
+גרז אנד בולס
+ניטנ סוי
+גוטנ
+המטבחון
+פוקי שופ
+Omer van Kloeten 12:16
+בכור את שושי
+נון
+התימני
+פוקישופ (שוב) (edited) 
+ויוידה
+Gaya Chomski (CA at ToHa) 12:25
+liv
+Inbar Poyastro 12:28
+ניני האצי
+Gaya Chomski (CA at ToHa) 12:37
+גמילה
+Shahar Shitrit 12:37
+מידו?
+Gaya Chomski (CA at ToHa) 12:41
+מנזה
+Tuesday, July 30th
+Coral Shemesh (CL at ToHa) 12:06
+דה פפרס
+שף סלט
+השדרה 34
+מרסלוס
+בנדורה
+הירו ראמן
+ג׳ארס אנד בולז
+זוזוברה
+גוטה
+סלטים
+קפטן קארי
+גאפו
+פוקי שופ
+Coral Shemesh (CL at ToHa) 12:44
+טאקריה
+נון
+קספי
+זה סושי
+טנדורי
+פינת השלושה
+ניני האצ׳י
+Nadav Pozmantir 13:31
+דה סטריטס
+Yonatan Bergman 13:54
+Rotisserie chicken
+:kissing_heart:
+1
+
+Wednesday, July 31st
+Gaya Chomski (CA at ToHa) 11:45
+גוטה
+ריבר
+רוטסרי
+ליב
+מנזה
+Gaya Chomski (CA at ToHa) 11:57
+סלטים
+Gaya Chomski (CA at ToHa) 12:34
+טנדורי
+מקסיקנה
+זה סושי
+Dafna Nakash (CA at ToHa) 12:37
+הירו ראמן
+לה אנטריקוט תל אביב
+החשמונאים
+ג׳ראז אנד בולס
+פפרס
+vong
+השדרה 34
+נונ
+ג׳ירף
+Avigail Berger 13:24
+נשים מבשלות?
+Thursday, August 1st
+Gaya Chomski (CA at ToHa) 12:22
+גירף
+גוטה
+וונג
+מרסלוס
+פטרוזילה
+סלטי שף
+פפר
+סיו מת גן
+ברזילאי
+Tamir Kfir 12:25
+הירו ראמן
+Gaya Chomski (CA at ToHa) 12:38
+rhcr
+ריבר
+Tsachi Shuval 12:48
+פוקישופ
+משק ברזילי
+קפטן קארי
+זהסושי
+יאשקה
+דוניה
+הופונופופונו
+:notbad:
+2
+:wat-4843:
+1
+
+Ohad Levi 13:08
+מישהו לקח יאשקה (שקית 1)?
+Ron Klein 13:08
+מישהו לקח ריבר?
+Rotem Keren-Azulay 13:13
+מי לקח זה סושי??
+
+
+4 replies
+Last reply 24 days agoView thread
+Isaac Fisher:avocado: 14:48
+^ theres a food thief around here :hushed:
+Ron Klein 14:49
+לצערי אצלי האוכל הגיע למידטאון   :wtf:
+Sunday, August 4th
+Dafna Nakash (CA at ToHa) 12:05
+ריבר
+ארומה
+מקסיקנה
+סוי רמת גן
+מרסלוס
+קפה בגין
+גו נדלס
+Kobi Meirson 12:17
+פינת השלושה
+Bread station
+השדרה 34
+קפה בגין
+גוטה
+Shai Tubul 12:56
+פוקי שופ?
+:avocado:
+1
+
+
+1 reply
+21 days agoView thread
+Marina Ulanovsky 13:14
+מישהו לקח שקית של אינדירה?
+Dana Gazanda 13:27
+מישהו לקח מסוי ניטן תאי?
+Monday, August 5th
+Inbar Poyastro 11:56
+מנזה
+אושי אושי
+גוטה
+וולף נייט
+המטבחון
+סלטים
+מרסלוס
+פוקי שופ
+ספונטיני
+כרמליס
+Inbar Poyastro 12:12
+צופצופ
+Gaya Chomski (CA at ToHa) 12:15
+עלה
+Inbar Poyastro 12:22
+פיורי
+Gaya Chomski (CA at ToHa) 12:31
+קופיבר
+Inbar Poyastro 12:32
+גארס אנד בול
+טנדורי
+סוי רמת גן
+הרצוג
+פפר
+פיצאלה
+Noaa Ilani 13:35
+Someone took nini hatchi?
+Daniel Gendelman 16:38
+was added to #tech-toha-lunch by Sergey Panchenko. Also, Boris Plotnikov joined.
+:man-with-bunny-ears-partying:
+1
+
+Tuesday, August 6th
+Avigail Berger 13:12
+Jars&bowls
+שף סלט
+התימני
+נון
+מטרו
+טנדורי
+עלים ירוקים
+גוטה
+ריבר
+עלה
+ניני האצ׳י
+מרסלוס
+מוזס
+פוקישופ
+Yuval Mendelbaum 14:08
+ארומה?
+Wednesday, August 7th
+Dafna Nakash (CA at ToHa) 12:48
+הרצוג
+קפטן קארי
+נונ
+מידו
+גו נודלס
+ליב
+גוטא
+מרסלוס
+וונג
+סוי רמת גן
+ג׳ארז אנד בולז
+אנגוס
+התימני
+Thursday, August 8th
+Alexander Berezovsky 12:13
+was added to #tech-toha-lunch by Ron Klein.
+Tamir Kfir 12:29
+מרסלוס
+ג'ירף
+רוטיסרי
+קפטן קארי
+מקסיקנה
+המטבחון
+נון
 ליב
 גוטה
-עראיס (edited)
-מנזה
-אורבן פוד
-
-Barak Cohen [12:36]
-צפרה @tomer.gabel
-
-Alex Gutman [12:46]
-was added to #tlv-hq-lunch by Shiran Asulin Entin.
-
-Ronit Steinberg [12:47]
+ריבר
 הרצוג
+Tsachi Shuval 12:52
+מתאו
+Noa Adamsky 13:02
+פוקישופ
+Sunday, August 11th
+Dafna Nakash (CA at ToHa) 12:17
+ריבר
+גוטא
+עלה
+ג׳אפו
+סלטים
+cbb
+נונ
+חומוס הבוטקה
+הרצוג
+פאק פאק
+השדרה 34
+ליב
+טנדורי
+פוקי שופ
+Omer van Kloeten 13:21
+רוטיסרי
+תאתא
+גרקו
+ג'ארס
+פינת השלושה
+גוטה
+וונג
+Noam Hamou 13:23
+ג׳ירף?
+:gir_dance:
+1
 
-Keren Ben Arosh [12:58]
-ג׳ארס
+
+
+2 replies
+Last reply 14 days agoView thread
+Zach Cohen 13:30
+ניני האצ׳י
+Noam Hamou 13:31
+גירף
+:hamster-dance:
+2
+:giraffe:
+1
+
+Monday, August 12th
+Inbar Poyastro 12:13
+מנזה
+גוטה
+מרסלוס
+נון
+משק ברזילי
+הרצוג
+סוי רמת גן
+גאפו
+ריבר
+מקסיקנה
+זוזוברה
+סלטים
+אוטיסרי
+רוטיסר
+Gaya Chomski (CA at ToHa) 12:21
+ליב
+Gaya Chomski (CA at ToHa) 12:29
+ניני אצי
+פינת השלושה ,
+Inbar Poyastro 12:33
+גרקו
+פפרס
+דה סטריט
+Inbar Poyastro 12:49
+גו נודלס
+Sara Hillel 13:49
+טנדורי
+Nofar Navarro Varon:speech_balloon: 14:05
+ג׳ארס?
+Zohar Bergman 17:18
+was added to #tech-toha-lunch by Yoav Codish.
+Tuesday, August 13th
+Daniel Boskys 12:45
+פינת השלושה
+גוטה
+גירף
+מידו  rotisser (edited) 
+תאתא
+Shahar Shitrit 12:52
+מאמאלה
+פוקישופ
+סלטים
+התימני
+קרנף
+ג׳ארס אנד בולז
+מידו
+נון
+ריבר
+מנזה
+Wednesday, August 14th
+Inbar Poyastro 12:16
+גארס אנד בול
+מקסיקנה
+מרסלוס
+טנדורי
+גוטה
+פינת השלושה
+וולף נייט
+פטרוזיליה
+חומוס הכרם
+סי בי בי
+Inbar Poyastro 12:22
+ריבר
+Inbar Poyastro 12:27
+ניניהאצי
+Inbar Poyastro 12:36
+משק ברזילי
+Tsachi Shuval 12:50
+שדרה 34
+טנדורי
+Tsachi Shuval 12:57
+מתאו
+תאתא
+Thursday, August 15th
+Anna Zeiger 12:42
+מרסלוס
+פינת השלושה
+תאתא
+גירף
+וונג
+סלטים
+שף סלט
+משק ברזילי
+גוטה
+זוזוברה (edited) 
+דה סטריטס
+חומוס כספי
+פפר
+טנדורי
+גו נודלס
+Sunday, August 18th
+Dafna Nakash (CA at ToHa) 12:32
+קפטן קארי
+ג׳אפו
+פינת השלושה
+נונ
+גוטה
+התמיני
+ליב
+מרסלוס
+הרצוג
+דה סטריטס
+בכור את שושי
+גו נודל
+Yotam Bloom 13:18
+באליבר
+פטרוזיליה
+מטאו
+זה סושי
+טנדורי
+קפטן קארי
+Rachel Kamins 13:37
+Cooking Woman?
+Monday, August 19th
+Ofir Sharony 11:45
+was added to #tech-toha-lunch by Jasmine Esulin, along with 3 others.
+Gaya Chomski (CA at ToHa) 11:48
+גוטה ֿ
+ריבר
+דה סטריט
+טנדורי
+מרסלוס
+חומוס כספי
+פסטה ויה
+בכור ושושי
+מנזה
+Gaya Chomski (CA at ToHa) 12:04
+סלטים
+התמני
+זוזברה
+noon
+סלטים
+השדרה
+Noam Hamou 12:44
+פינת השלושה
+רוזינקא
+Marina Ulanovsky 12:58
+ג׳ארז אנד בולז
+תאתא
+פוקישופ
+ניני האצ׳י
+Tuesday, August 20th
+Talia Nassi 12:37
+פינת השלושה
+וולפנייט
+גוטה
+ריבר
+מרסלוס
+Captain curry
+Japo
+זפרה
+פוקישופ
+גירף
+נון
+Anna Zeiger 13:00
+ג׳ארז אנד בולז
+Wednesday, August 21st
+Gaya Chomski (CA at ToHa) 12:03
+פוקי
+גוטה
+noon
+cbb
+גאפן
+גגירף
+Yoav Codish 13:00
+מרסלוס
+וונג
+ריבר
+ניני האצ'י
+ג'רלס אנד בוולס
+זוזוברה
+Yair Horovitz 13:02
+ך
+Gaya Chomski (CA at ToHa) 13:04
+קופי בר
+Anna Zeiger 13:12
+. מישהו לקח במקרה את האורז שלי ממרסלוס?
+@here
+
+1 reply
+4 days agoView thread
+Thursday, August 22nd
+Coral Shemesh (CL at ToHa) 13:07
+ג׳רס אנד בולז
+רוטיסרי
+סלטים
+ניני האצי׳
+הרצוד
+ג
+נון
+מקסיקני
+מרסלוס
+הבאגט של גילה
+ריבר
+Coral Shemesh (CL at ToHa) 13:24
+ג׳ירף
+:sushi:
+1
+
+ג׳פניקה
+Today
+Maayan Bakal-CL operations ToHa 11:54
+גריל עוף
+Lior Gantz (CL at ToHa) 12:21
+גוטה
+נון
 ארומה
 מרסלוס
-ג׳ירף
-Noon
-הירו ראמן
-זוזוברה
-כרמליס בייגל
-Japo
-יאשקה
-שף סלט
-Sora
-
-Talia Nassi [13:20]
-Did someone who ordered Yashka accidentally take my lunch?
-
-Tsachi Shuval [13:24]
-@talia.nassi there are Yashka bags here
-Mido
-
-Adi Saranga [14:08]
-@dan.sincai food us here
-
-Slackbot [10:20]
-Reminder: Order your food.
-
-Kobi Meirson [11:58]
-עראיס
-
-Gal Haramaty [12:23]
-קופי בר
-גוטה
-זוזוברה
-ברדלי
-דה פפרס
-גאפו
-אונמי
-
-Eran Hazoum [12:27]
-דוניא
-
-Roni Ashkenazi [12:47]
-@maya.manor
-
-Maya Manor [12:47]
-was added to #tlv-hq-lunch by Roni Ashkenazi.
-
-Maya Gane [12:49]
-@doreen.abargel
-
-Doreen Abargel [12:49]
-was added to #tlv-hq-lunch by Maya Gane.
-
-Daniel Witz [12:51]
-Wolt
-
-
-Michael Assouline [13:02]
-יאשקה
-Message Input
-
-
-Message #tlv-hq-lunch
+ג׳מבו
+רוסטר
+סוי
+פסטה ויא
+אראיס
+הרצוג
+קפטן קארי
+התימני
+גריל עוף רמת גן
+ג׳חנון קול
+Lior Gantz (CL at ToHa) 12:27
+מתאו
+אמריקן פיצה
+טופולופומפו
+ניני האצ׳י
